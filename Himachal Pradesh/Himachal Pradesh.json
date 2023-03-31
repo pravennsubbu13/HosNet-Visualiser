@@ -1,0 +1,154 @@
+{
+   "results": [
+      {
+         "name": "Sai Hospital",
+         "latitude": 31.67083,
+         "longitude": 76.53608
+      },
+      {
+         "name": "Sai Hospital",
+         "latitude": 31.67083,
+         "longitude": 76.53608
+      },
+      {
+         "name": "Surya Hospital",
+         "latitude": 32.20746,
+         "longitude": 75.91145
+      },
+      {
+         "name": "Fortis Hospital Kangra",
+         "latitude": 32.11604,
+         "longitude": 76.28208
+      },
+      {
+         "name": "Shree Balaji Hospital",
+         "latitude": 32.11494,
+         "longitude": 76.27951
+      },
+      {
+         "name": "Vivekanand Medical Institute",
+         "latitude": 32.10634,
+         "longitude": 76.55102
+      },
+      {
+         "name": "Aastha Multispeciality Hospital",
+         "latitude": 31.64288,
+         "longitude": 76.94508
+      },
+      {
+         "name": "Tara Hospital",
+         "latitude": 31.104811,
+         "longitude": 77.173733
+      },
+      {
+         "name": "Sai Sanjivani Hospital",
+         "latitude": 31.104391,
+         "longitude": 77.174297
+      },
+      {
+         "name": "Bhardwaj Hospital",
+         "latitude": 30.93795,
+         "longitude": 76.80019
+      },
+      {
+         "name": "Aakash Hospital and Diagnostics",
+         "latitude": 31.03639,
+         "longitude": 76.71056
+      },
+      {
+         "name": "Brooklyn Himalaya Solan",
+         "latitude": 30.92768,
+         "longitude": 76.83673
+      },
+      {
+         "name": "Gagan Hospital Baddi",
+         "latitude": 30.93171,
+         "longitude": 76.80027
+      },
+      {
+         "name": "Malhotra Super Speciality Hospital",
+         "latitude": 30.949273,
+         "longitude": 76.832278
+      },
+      {
+         "name": "Grover Eye and ENT Hospital",
+         "latitude": 30.910307,
+         "longitude": 77.099099
+      },
+      {
+         "name": "Nanda Hospital",
+         "latitude": 31.47442,
+         "longitude": 76.27169
+      },
+      {
+         "name": "Surya Hospital",
+         "latitude": 32.20746,
+         "longitude": 75.91145
+      },
+      {
+         "name": "Fortis Hospital Kangra",
+         "latitude": 32.11604,
+         "longitude": 76.28208
+      },
+      {
+         "name": "Shree Balaji Hospital",
+         "latitude": 32.11494,
+         "longitude": 76.27951
+      },
+      {
+         "name": "Vivekanand Medical Institute",
+         "latitude": 32.10634,
+         "longitude": 76.55102
+      },
+      {
+         "name": "Aastha Multispeciality Hospital",
+         "latitude": 31.64288,
+         "longitude": 76.94508
+      },
+      {
+         "name": "Tara Hospital",
+         "latitude": 31.104811,
+         "longitude": 77.173733
+      },
+      {
+         "name": "Sai Sanjivani Hospital",
+         "latitude": 31.104391,
+         "longitude": 77.174297
+      },
+      {
+         "name": "Bhardwaj Hospital",
+         "latitude": 30.93795,
+         "longitude": 76.80019
+      },
+      {
+         "name": "Aakash Hospital and Diagnostics",
+         "latitude": 31.03639,
+         "longitude": 76.71056
+      },
+      {
+         "name": "Brooklyn Himalaya Solan",
+         "latitude": 30.92768,
+         "longitude": 76.83673
+      },
+      {
+         "name": "Gagan Hospital Baddi",
+         "latitude": 30.93171,
+         "longitude": 76.80027
+      },
+      {
+         "name": "Malhotra Super Speciality Hospital",
+         "latitude": 30.949273,
+         "longitude": 76.832278
+      },
+      {
+         "name": "Grover Eye and ENT Hospital",
+         "latitude": 30.910307,
+         "longitude": 77.099099
+      },
+      {
+         "name": "Nanda Hospital",
+         "latitude": 31.47442,
+         "longitude": 76.27169
+      }
+   ]
+}

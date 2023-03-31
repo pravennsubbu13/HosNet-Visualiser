@@ -1,0 +1,264 @@
+{
+   "results": [
+      {
+         "name": "Bansal Nursing Home Bastar",
+         "latitude": 19.08561,
+         "longitude": 82.02642
+      },
+      {
+         "name": "KIMS Super Speciality Hospital Pvt Ltd.",
+         "latitude": 22.077924,
+         "longitude": 82.150039
+      },
+      {
+         "name": "Shriram Care Hospital",
+         "latitude": 22.085232,
+         "longitude": 82.13006
+      },
+      {
+         "name": "Aarbee Institute of Medical Science",
+         "latitude": 22.07881,
+         "longitude": 82.13366
+      },
+      {
+         "name": "Mahadev Hospital",
+         "latitude": 22.06692,
+         "longitude": 82.14931
+      },
+      {
+         "name": "Vinayak Netralaya Bilaspur",
+         "latitude": 22.07631,
+         "longitude": 82.15262
+      },
+      {
+         "name": "Shri Krishna Netralaya",
+         "latitude": 22.07314,
+         "longitude": 82.15652
+      },
+      {
+         "name": "Apollo Hospitals Bilaspur",
+         "latitude": 22.086829,
+         "longitude": 82.190299
+      },
+      {
+         "name": "Pratham Hospital",
+         "latitude": 22.09498,
+         "longitude": 82.17474
+      },
+      {
+         "name": "Mundra Hospital",
+         "latitude": 22.09381,
+         "longitude": 82.12788
+      },
+      {
+         "name": "Srishti Children Hospital",
+         "latitude": 22.08034,
+         "longitude": 82.14062
+      },
+      {
+         "name": "Mark Hospital",
+         "latitude": 22.09764,
+         "longitude": 82.15538
+      },
+      {
+         "name": "Luthra Vision Care and Research Centre LLP.",
+         "latitude": 22.08815,
+         "longitude": 82.13354
+      },
+      {
+         "name": "Shri Shishu Bhawan",
+         "latitude": 22.08391,
+         "longitude": 82.15139
+      },
+      {
+         "name": "Samadhan Nursing Home Bilaspur",
+         "latitude": 22.07768,
+         "longitude": 82.13982
+      },
+      {
+         "name": "Sanjeevani Hospital and Research Centre",
+         "latitude": 26.4692,
+         "longitude": 74.61566
+      },
+      {
+         "name": "Narayani Hospital Bilaspur",
+         "latitude": 22.09206,
+         "longitude": 82.12779
+      },
+      {
+         "name": "Juneja Eye Hospital",
+         "latitude": 22.05738,
+         "longitude": 82.17324
+      },
+      {
+         "name": "Martin Nursing Home",
+         "latitude": 20.7072,
+         "longitude": 81.5497
+      },
+      {
+         "name": "Bhagwati Multispeciality Hospital",
+         "latitude": 20.7072,
+         "longitude": 81.5497
+      },
+      {
+         "name": "Aditya Nursing Home Dhamtari",
+         "latitude": 20.7072,
+         "longitude": 81.5497
+      },
+      {
+         "name": "Sunshine Multispeciality Hospital",
+         "latitude": 21.21296,
+         "longitude": 81.43768
+      },
+      {
+         "name": "Mittal Bhilai Hospital",
+         "latitude": 21.18594,
+         "longitude": 81.31063
+      },
+      {
+         "name": "Apex Eye Hospital and Retina Centre",
+         "latitude": 21.19784,
+         "longitude": 81.28816
+      },
+      {
+         "name": "Shri Sai Netralaya",
+         "latitude": 21.2116,
+         "longitude": 81.35776
+      },
+      {
+         "name": "Hitek Superspeciality Hospital Pvt. Ltd.",
+         "latitude": 21.21629,
+         "longitude": 81.3234
+      },
+      {
+         "name": "Sharma Netralaya",
+         "latitude": 26.50043,
+         "longitude": 74.6304
+      },
+      {
+         "name": "B M Shah Hospital and Medical Research Centre",
+         "latitude": 21.208243,
+         "longitude": 81.360272
+      },
+      {
+         "name": "Pulse Hospital",
+         "latitude": 21.20136,
+         "longitude": 81.3219
+      },
+      {
+         "name": "Sai Baba Eye Hospital",
+         "latitude": 21.21066,
+         "longitude": 81.37809
+      },
+      {
+         "name": "Nayak Nursing Home",
+         "latitude": 22.043843,
+         "longitude": 82.64753
+      },
+      {
+         "name": "Md Modi Memorial Hospital",
+         "latitude": 22.043843,
+         "longitude": 82.64753
+      },
+      {
+         "name": "Mother Merry Hospital",
+         "latitude": 20.2719,
+         "longitude": 81.4931
+      },
+      {
+         "name": "New Korba Hospital",
+         "latitude": 22.36252,
+         "longitude": 82.73529
+      },
+      {
+         "name": "Prasad Netralaya Korba",
+         "latitude": 22.36057,
+         "longitude": 82.72479
+      },
+      {
+         "name": "Dani Eye Hospital Korba",
+         "latitude": 22.3594,
+         "longitude": 82.72075
+      },
+      {
+         "name": "Krishna Hospital Korbaa",
+         "latitude": 22.36266,
+         "longitude": 82.73619
+      },
+      {
+         "name": "Agrawal Nursing Home",
+         "latitude": 21.27775,
+         "longitude": 82.82307
+      },
+      {
+         "name": "O P Jindal Hospital & Research Center",
+         "latitude": 22.071999,
+         "longitude": 83.004645
+      },
+      {
+         "name": "Metro Hospital Raigarh",
+         "latitude": 21.887047,
+         "longitude": 83.41822
+      },
+      {
+         "name": "Rajpriya Hospital",
+         "latitude": 21.87823,
+         "longitude": 83.38765
+      },
+      {
+         "name": "JMJ Morning Star Hospital",
+         "latitude": 21.89056,
+         "longitude": 83.41318
+      },
+      {
+         "name": "Balco Medical Centre",
+         "latitude": 21.12315,
+         "longitude": 81.77457
+      },
+      {
+         "name": "Mittal Institute of Medical Scince",
+         "latitude": 21.260246,
+         "longitude": 81.658756
+      },
+      {
+         "name": "Aarogya Hospital and Research Centre Pvt Ltd.",
+         "latitude": 24.52986,
+         "longitude": 81.29603
+      },
+      {
+         "name": "Shri Sankalp Medical and Research Institute Pvt. Ltd.",
+         "latitude": 21.24682,
+         "longitude": 81.5724
+      },
+      {
+         "name": "Shree Retina Care",
+         "latitude": 21.250644,
+         "longitude": 81.662972
+      },
+      {
+         "name": "Parakh Nursing Home",
+         "latitude": 21.097103,
+         "longitude": 81.030222
+      },
+      {
+         "name": "Sai Kripa Hospital Rajnandgaon",
+         "latitude": 21.097103,
+         "longitude": 81.030222
+      },
+      {
+         "name": "Shree Ram Hospital Rajnandgaon",
+         "latitude": 21.08108,
+         "longitude": 81.01561
+      },
+      {
+         "name": "Sankalp Hospital",
+         "latitude": 19.08504,
+         "longitude": 82.02383
+      },
+      {
+         "name": "Jeevan Jyoti Hospital Surguja",
+         "latitude": 23.10871,
+         "longitude": 83.1886
+      }
+   ]
+}

@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c0978612663dbcf2ad1753c772c229e2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_c0978612663dbcf2ad1753c772c229e2" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c0978612663dbcf2ad1753c772c229e2 = L.map(
+                "map_c0978612663dbcf2ad1753c772c229e2",
+                {
+                    center: [31.67083, 76.53608],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_4e904fda4f13de235ffc7d169ef4413f = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+            var marker_dfa6744187b50b06f182b290ece84c41 = L.marker(
+                [31.67083, 76.53608],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_b97e6ca979edc045e7e164ad6847a618 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d63f9f3b1280fcc609d4b7b76cc515d1 = $(`<div id="html_d63f9f3b1280fcc609d4b7b76cc515d1" style="width: 100.0%; height: 100.0%;">Sai Hospital</div>`)[0];
+                popup_b97e6ca979edc045e7e164ad6847a618.setContent(html_d63f9f3b1280fcc609d4b7b76cc515d1);
+            
+        
+
+        marker_dfa6744187b50b06f182b290ece84c41.bindPopup(popup_b97e6ca979edc045e7e164ad6847a618)
+        ;
+
+        
+    
+    
+            var marker_7fcafd5d33841cdabe650e60bf56035a = L.marker(
+                [31.67083, 76.53608],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_223fe739500fe533561ac91cfc9a13a8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f6f10e9177306a078fb3039e1b129357 = $(`<div id="html_f6f10e9177306a078fb3039e1b129357" style="width: 100.0%; height: 100.0%;">Sai Hospital</div>`)[0];
+                popup_223fe739500fe533561ac91cfc9a13a8.setContent(html_f6f10e9177306a078fb3039e1b129357);
+            
+        
+
+        marker_7fcafd5d33841cdabe650e60bf56035a.bindPopup(popup_223fe739500fe533561ac91cfc9a13a8)
+        ;
+
+        
+    
+    
+            var marker_239d3104b99dce470e51cf7f395c79c7 = L.marker(
+                [32.20746, 75.91145],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_d73b8dabedb21a1e6ba8091c54a2f93a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_027927a67ecb1229d47fb5e7e5304459 = $(`<div id="html_027927a67ecb1229d47fb5e7e5304459" style="width: 100.0%; height: 100.0%;">Surya Hospital</div>`)[0];
+                popup_d73b8dabedb21a1e6ba8091c54a2f93a.setContent(html_027927a67ecb1229d47fb5e7e5304459);
+            
+        
+
+        marker_239d3104b99dce470e51cf7f395c79c7.bindPopup(popup_d73b8dabedb21a1e6ba8091c54a2f93a)
+        ;
+
+        
+    
+    
+            var marker_1ef0f7145c18380260692fd79d0f8c9b = L.marker(
+                [32.11604, 76.28208],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_5ac83acd1f68daf9cda2e70279f30ef3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8729c52621fd7d53590efa3ab8b004ce = $(`<div id="html_8729c52621fd7d53590efa3ab8b004ce" style="width: 100.0%; height: 100.0%;">Fortis Hospital Kangra</div>`)[0];
+                popup_5ac83acd1f68daf9cda2e70279f30ef3.setContent(html_8729c52621fd7d53590efa3ab8b004ce);
+            
+        
+
+        marker_1ef0f7145c18380260692fd79d0f8c9b.bindPopup(popup_5ac83acd1f68daf9cda2e70279f30ef3)
+        ;
+
+        
+    
+    
+            var marker_04366076f8abb8864f8803ee28f7447d = L.marker(
+                [32.11494, 76.27951],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_a5baa4dc01434b533b0cef45e8b53bc9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fbe7e432ca23d24ca5f580e806441670 = $(`<div id="html_fbe7e432ca23d24ca5f580e806441670" style="width: 100.0%; height: 100.0%;">Shree Balaji Hospital</div>`)[0];
+                popup_a5baa4dc01434b533b0cef45e8b53bc9.setContent(html_fbe7e432ca23d24ca5f580e806441670);
+            
+        
+
+        marker_04366076f8abb8864f8803ee28f7447d.bindPopup(popup_a5baa4dc01434b533b0cef45e8b53bc9)
+        ;
+
+        
+    
+    
+            var marker_76f3e3c67ab7b8cd49b431bcedb4e22e = L.marker(
+                [32.10634, 76.55102],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_3792cfe84ace0b43e10306e56ffff261 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7d3cf19a68add852c1c2ac79fdeb74be = $(`<div id="html_7d3cf19a68add852c1c2ac79fdeb74be" style="width: 100.0%; height: 100.0%;">Vivekanand Medical Institute</div>`)[0];
+                popup_3792cfe84ace0b43e10306e56ffff261.setContent(html_7d3cf19a68add852c1c2ac79fdeb74be);
+            
+        
+
+        marker_76f3e3c67ab7b8cd49b431bcedb4e22e.bindPopup(popup_3792cfe84ace0b43e10306e56ffff261)
+        ;
+
+        
+    
+    
+            var marker_28de74ca19b9b2bfa5d4efe7c49ae87c = L.marker(
+                [31.64288, 76.94508],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_f11b760795582d0feabec3297c2dc1b0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a301eebc4017b644fcb2ef14e5b1dab0 = $(`<div id="html_a301eebc4017b644fcb2ef14e5b1dab0" style="width: 100.0%; height: 100.0%;">Aastha Multispeciality Hospital</div>`)[0];
+                popup_f11b760795582d0feabec3297c2dc1b0.setContent(html_a301eebc4017b644fcb2ef14e5b1dab0);
+            
+        
+
+        marker_28de74ca19b9b2bfa5d4efe7c49ae87c.bindPopup(popup_f11b760795582d0feabec3297c2dc1b0)
+        ;
+
+        
+    
+    
+            var marker_58baf311a2391225efed353465bd6bab = L.marker(
+                [31.104811, 77.173733],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_3410d1f234fd13ef3e326ae6b0250a23 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1239aca444eb987017f30db5fff70843 = $(`<div id="html_1239aca444eb987017f30db5fff70843" style="width: 100.0%; height: 100.0%;">Tara Hospital</div>`)[0];
+                popup_3410d1f234fd13ef3e326ae6b0250a23.setContent(html_1239aca444eb987017f30db5fff70843);
+            
+        
+
+        marker_58baf311a2391225efed353465bd6bab.bindPopup(popup_3410d1f234fd13ef3e326ae6b0250a23)
+        ;
+
+        
+    
+    
+            var marker_e7343af083d567af72f8be1615a49270 = L.marker(
+                [31.104391, 77.174297],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_33a8c3d04eb8d48b04864b77360bb683 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8e3cb5bc95af55929284fca77daae057 = $(`<div id="html_8e3cb5bc95af55929284fca77daae057" style="width: 100.0%; height: 100.0%;">Sai Sanjivani Hospital</div>`)[0];
+                popup_33a8c3d04eb8d48b04864b77360bb683.setContent(html_8e3cb5bc95af55929284fca77daae057);
+            
+        
+
+        marker_e7343af083d567af72f8be1615a49270.bindPopup(popup_33a8c3d04eb8d48b04864b77360bb683)
+        ;
+
+        
+    
+    
+            var marker_3406cab5c316c46e8c5b1d748b77b451 = L.marker(
+                [30.93795, 76.80019],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_a5505d49f3abc399e09389f74f57a2b0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2b98175f805e1766b1822e255b5fa712 = $(`<div id="html_2b98175f805e1766b1822e255b5fa712" style="width: 100.0%; height: 100.0%;">Bhardwaj Hospital</div>`)[0];
+                popup_a5505d49f3abc399e09389f74f57a2b0.setContent(html_2b98175f805e1766b1822e255b5fa712);
+            
+        
+
+        marker_3406cab5c316c46e8c5b1d748b77b451.bindPopup(popup_a5505d49f3abc399e09389f74f57a2b0)
+        ;
+
+        
+    
+    
+            var marker_a459a9fbc374d4e5beff14b7d59309f9 = L.marker(
+                [31.03639, 76.71056],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_b55db9703cb18136d4cfb199be5c35ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_60e6fe0739eac750fcee84cd3c930563 = $(`<div id="html_60e6fe0739eac750fcee84cd3c930563" style="width: 100.0%; height: 100.0%;">Aakash Hospital and Diagnostics</div>`)[0];
+                popup_b55db9703cb18136d4cfb199be5c35ac.setContent(html_60e6fe0739eac750fcee84cd3c930563);
+            
+        
+
+        marker_a459a9fbc374d4e5beff14b7d59309f9.bindPopup(popup_b55db9703cb18136d4cfb199be5c35ac)
+        ;
+
+        
+    
+    
+            var marker_a81c27b324cba6f87993469c9f8bf3e1 = L.marker(
+                [30.92768, 76.83673],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_71f22948ab6a6e46802c577e5e3280c7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_45e086b208ea563c1cb2301acdae3e25 = $(`<div id="html_45e086b208ea563c1cb2301acdae3e25" style="width: 100.0%; height: 100.0%;">Brooklyn Himalaya Solan</div>`)[0];
+                popup_71f22948ab6a6e46802c577e5e3280c7.setContent(html_45e086b208ea563c1cb2301acdae3e25);
+            
+        
+
+        marker_a81c27b324cba6f87993469c9f8bf3e1.bindPopup(popup_71f22948ab6a6e46802c577e5e3280c7)
+        ;
+
+        
+    
+    
+            var marker_536beea461a1c2f06a878ae2db9e3aae = L.marker(
+                [30.93171, 76.80027],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_eb486c8b74fc11ab9ce19effef711feb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1f4320bc0dfbe4a1e22e78837360132d = $(`<div id="html_1f4320bc0dfbe4a1e22e78837360132d" style="width: 100.0%; height: 100.0%;">Gagan Hospital Baddi</div>`)[0];
+                popup_eb486c8b74fc11ab9ce19effef711feb.setContent(html_1f4320bc0dfbe4a1e22e78837360132d);
+            
+        
+
+        marker_536beea461a1c2f06a878ae2db9e3aae.bindPopup(popup_eb486c8b74fc11ab9ce19effef711feb)
+        ;
+
+        
+    
+    
+            var marker_86820deafd456eb3cd9071908d4698ff = L.marker(
+                [30.949273, 76.832278],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_777d4ddd0902269e3742159543b40da9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5807f678c8ef2be43492fef6b7701482 = $(`<div id="html_5807f678c8ef2be43492fef6b7701482" style="width: 100.0%; height: 100.0%;">Malhotra Super Speciality Hospital</div>`)[0];
+                popup_777d4ddd0902269e3742159543b40da9.setContent(html_5807f678c8ef2be43492fef6b7701482);
+            
+        
+
+        marker_86820deafd456eb3cd9071908d4698ff.bindPopup(popup_777d4ddd0902269e3742159543b40da9)
+        ;
+
+        
+    
+    
+            var marker_c8474abce4082f325e7bb5164b3ccd9f = L.marker(
+                [30.910307, 77.099099],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_d9dc852c5882a73c581c3d31d21b1b7c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3e907f8323de8e499f68e17cbdc59784 = $(`<div id="html_3e907f8323de8e499f68e17cbdc59784" style="width: 100.0%; height: 100.0%;">Grover Eye and ENT Hospital</div>`)[0];
+                popup_d9dc852c5882a73c581c3d31d21b1b7c.setContent(html_3e907f8323de8e499f68e17cbdc59784);
+            
+        
+
+        marker_c8474abce4082f325e7bb5164b3ccd9f.bindPopup(popup_d9dc852c5882a73c581c3d31d21b1b7c)
+        ;
+
+        
+    
+    
+            var marker_f304f11719be5c55923b26adfcd629b5 = L.marker(
+                [31.47442, 76.27169],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_04e597e729f1876fae957dbb75b2ce7e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_af3c00acca5054af240dab6d21ae93e1 = $(`<div id="html_af3c00acca5054af240dab6d21ae93e1" style="width: 100.0%; height: 100.0%;">Nanda Hospital</div>`)[0];
+                popup_04e597e729f1876fae957dbb75b2ce7e.setContent(html_af3c00acca5054af240dab6d21ae93e1);
+            
+        
+
+        marker_f304f11719be5c55923b26adfcd629b5.bindPopup(popup_04e597e729f1876fae957dbb75b2ce7e)
+        ;
+
+        
+    
+    
+            var marker_76454291ee8fdf3433c7b42e47d612ca = L.marker(
+                [32.20746, 75.91145],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_daeb05eaf27472fe3de66ce8f234ab63 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3e8e1e4db68183044b8e9d1889d7f05c = $(`<div id="html_3e8e1e4db68183044b8e9d1889d7f05c" style="width: 100.0%; height: 100.0%;">Surya Hospital</div>`)[0];
+                popup_daeb05eaf27472fe3de66ce8f234ab63.setContent(html_3e8e1e4db68183044b8e9d1889d7f05c);
+            
+        
+
+        marker_76454291ee8fdf3433c7b42e47d612ca.bindPopup(popup_daeb05eaf27472fe3de66ce8f234ab63)
+        ;
+
+        
+    
+    
+            var marker_12b915e38f30f7fc5388bdff06df75da = L.marker(
+                [32.11604, 76.28208],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_cccdb8761668c392039909a793d2d5b9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a8a2900bc018b36148facd08d1b0dc11 = $(`<div id="html_a8a2900bc018b36148facd08d1b0dc11" style="width: 100.0%; height: 100.0%;">Fortis Hospital Kangra</div>`)[0];
+                popup_cccdb8761668c392039909a793d2d5b9.setContent(html_a8a2900bc018b36148facd08d1b0dc11);
+            
+        
+
+        marker_12b915e38f30f7fc5388bdff06df75da.bindPopup(popup_cccdb8761668c392039909a793d2d5b9)
+        ;
+
+        
+    
+    
+            var marker_08089c9340928c943d54866f62daa119 = L.marker(
+                [32.11494, 76.27951],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_591214734970b6348a797cd740408e4c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8e4a98d1ea66eb7cdde7b85e0908e1aa = $(`<div id="html_8e4a98d1ea66eb7cdde7b85e0908e1aa" style="width: 100.0%; height: 100.0%;">Shree Balaji Hospital</div>`)[0];
+                popup_591214734970b6348a797cd740408e4c.setContent(html_8e4a98d1ea66eb7cdde7b85e0908e1aa);
+            
+        
+
+        marker_08089c9340928c943d54866f62daa119.bindPopup(popup_591214734970b6348a797cd740408e4c)
+        ;
+
+        
+    
+    
+            var marker_0239e3b04cfbde9eecf7396661d22c6b = L.marker(
+                [32.10634, 76.55102],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_4fcf4b7f48913d75437e6fef73043ee9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1b9b4d681073cbcf64a8dd8cb6650e38 = $(`<div id="html_1b9b4d681073cbcf64a8dd8cb6650e38" style="width: 100.0%; height: 100.0%;">Vivekanand Medical Institute</div>`)[0];
+                popup_4fcf4b7f48913d75437e6fef73043ee9.setContent(html_1b9b4d681073cbcf64a8dd8cb6650e38);
+            
+        
+
+        marker_0239e3b04cfbde9eecf7396661d22c6b.bindPopup(popup_4fcf4b7f48913d75437e6fef73043ee9)
+        ;
+
+        
+    
+    
+            var marker_03e2358ebceb49d7e0eec9ce1ac59111 = L.marker(
+                [31.64288, 76.94508],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_8ef7761a90e1a91e2d742c461abba27d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ae28bfeb40c6be9725055a2c48bc6649 = $(`<div id="html_ae28bfeb40c6be9725055a2c48bc6649" style="width: 100.0%; height: 100.0%;">Aastha Multispeciality Hospital</div>`)[0];
+                popup_8ef7761a90e1a91e2d742c461abba27d.setContent(html_ae28bfeb40c6be9725055a2c48bc6649);
+            
+        
+
+        marker_03e2358ebceb49d7e0eec9ce1ac59111.bindPopup(popup_8ef7761a90e1a91e2d742c461abba27d)
+        ;
+
+        
+    
+    
+            var marker_ef7fdbdac19cc3499a437a56a435d0ab = L.marker(
+                [31.104811, 77.173733],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_92158293737ca47a9260ce74734348c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8cd039e7661db2f0ba468c68d75d8d35 = $(`<div id="html_8cd039e7661db2f0ba468c68d75d8d35" style="width: 100.0%; height: 100.0%;">Tara Hospital</div>`)[0];
+                popup_92158293737ca47a9260ce74734348c2.setContent(html_8cd039e7661db2f0ba468c68d75d8d35);
+            
+        
+
+        marker_ef7fdbdac19cc3499a437a56a435d0ab.bindPopup(popup_92158293737ca47a9260ce74734348c2)
+        ;
+
+        
+    
+    
+            var marker_a304a328dbeff79fcfeb47bd10b6ce7b = L.marker(
+                [31.104391, 77.174297],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_2169ee50ea69f58e7ce48827312de648 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5cbdc83297ccf8f3de32849bac497123 = $(`<div id="html_5cbdc83297ccf8f3de32849bac497123" style="width: 100.0%; height: 100.0%;">Sai Sanjivani Hospital</div>`)[0];
+                popup_2169ee50ea69f58e7ce48827312de648.setContent(html_5cbdc83297ccf8f3de32849bac497123);
+            
+        
+
+        marker_a304a328dbeff79fcfeb47bd10b6ce7b.bindPopup(popup_2169ee50ea69f58e7ce48827312de648)
+        ;
+
+        
+    
+    
+            var marker_c55f90264ae3c4d2bc6d806ec2f53348 = L.marker(
+                [30.93795, 76.80019],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_bd0af108c8b8d7ef907df6d1693f4730 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_da70573d58854cc05093d55c046ddddf = $(`<div id="html_da70573d58854cc05093d55c046ddddf" style="width: 100.0%; height: 100.0%;">Bhardwaj Hospital</div>`)[0];
+                popup_bd0af108c8b8d7ef907df6d1693f4730.setContent(html_da70573d58854cc05093d55c046ddddf);
+            
+        
+
+        marker_c55f90264ae3c4d2bc6d806ec2f53348.bindPopup(popup_bd0af108c8b8d7ef907df6d1693f4730)
+        ;
+
+        
+    
+    
+            var marker_10e3648a49eb7aa48366bcfa61a203e7 = L.marker(
+                [31.03639, 76.71056],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_1bafbd3956b71b84f20f4a0df357b0a4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_966ebc256a13c1e030dc5a819e5b1630 = $(`<div id="html_966ebc256a13c1e030dc5a819e5b1630" style="width: 100.0%; height: 100.0%;">Aakash Hospital and Diagnostics</div>`)[0];
+                popup_1bafbd3956b71b84f20f4a0df357b0a4.setContent(html_966ebc256a13c1e030dc5a819e5b1630);
+            
+        
+
+        marker_10e3648a49eb7aa48366bcfa61a203e7.bindPopup(popup_1bafbd3956b71b84f20f4a0df357b0a4)
+        ;
+
+        
+    
+    
+            var marker_59638dea3fe074e1b714e7d1a58e6c99 = L.marker(
+                [30.92768, 76.83673],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_64a508d913474f565acc352fc0b21067 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_04332fe2eb5e3e60d74412138de8ec1c = $(`<div id="html_04332fe2eb5e3e60d74412138de8ec1c" style="width: 100.0%; height: 100.0%;">Brooklyn Himalaya Solan</div>`)[0];
+                popup_64a508d913474f565acc352fc0b21067.setContent(html_04332fe2eb5e3e60d74412138de8ec1c);
+            
+        
+
+        marker_59638dea3fe074e1b714e7d1a58e6c99.bindPopup(popup_64a508d913474f565acc352fc0b21067)
+        ;
+
+        
+    
+    
+            var marker_9e1a58bd6c3e9505b4bdea09f5109177 = L.marker(
+                [30.93171, 76.80027],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_dfccb15608a080d7a5cd7594f9d04392 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1bf1573450c4d1e2c9c1c1e9746134b5 = $(`<div id="html_1bf1573450c4d1e2c9c1c1e9746134b5" style="width: 100.0%; height: 100.0%;">Gagan Hospital Baddi</div>`)[0];
+                popup_dfccb15608a080d7a5cd7594f9d04392.setContent(html_1bf1573450c4d1e2c9c1c1e9746134b5);
+            
+        
+
+        marker_9e1a58bd6c3e9505b4bdea09f5109177.bindPopup(popup_dfccb15608a080d7a5cd7594f9d04392)
+        ;
+
+        
+    
+    
+            var marker_a23498089b66291f33e46b32a546858c = L.marker(
+                [30.949273, 76.832278],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_1132691e51604ebd4cea5241a31d2475 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eee56a8dc7dbb9d1910acb7f96a5429e = $(`<div id="html_eee56a8dc7dbb9d1910acb7f96a5429e" style="width: 100.0%; height: 100.0%;">Malhotra Super Speciality Hospital</div>`)[0];
+                popup_1132691e51604ebd4cea5241a31d2475.setContent(html_eee56a8dc7dbb9d1910acb7f96a5429e);
+            
+        
+
+        marker_a23498089b66291f33e46b32a546858c.bindPopup(popup_1132691e51604ebd4cea5241a31d2475)
+        ;
+
+        
+    
+    
+            var marker_3e24da135771d3d6958d13f2a6348d6a = L.marker(
+                [30.910307, 77.099099],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_05a5a0bf6767a95999be5efc1a95187e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a8a5ffc7b8e0e045a60dd4e19b3e8333 = $(`<div id="html_a8a5ffc7b8e0e045a60dd4e19b3e8333" style="width: 100.0%; height: 100.0%;">Grover Eye and ENT Hospital</div>`)[0];
+                popup_05a5a0bf6767a95999be5efc1a95187e.setContent(html_a8a5ffc7b8e0e045a60dd4e19b3e8333);
+            
+        
+
+        marker_3e24da135771d3d6958d13f2a6348d6a.bindPopup(popup_05a5a0bf6767a95999be5efc1a95187e)
+        ;
+
+        
+    
+    
+            var marker_92cc953dc7319726f69040e922be5ce7 = L.marker(
+                [31.47442, 76.27169],
+                {}
+            ).addTo(map_c0978612663dbcf2ad1753c772c229e2);
+        
+    
+        var popup_58738a5d7b8627be3bf8037895cb53d8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_81beca8ebe67147eb9df0cee3f88b7b0 = $(`<div id="html_81beca8ebe67147eb9df0cee3f88b7b0" style="width: 100.0%; height: 100.0%;">Nanda Hospital</div>`)[0];
+                popup_58738a5d7b8627be3bf8037895cb53d8.setContent(html_81beca8ebe67147eb9df0cee3f88b7b0);
+            
+        
+
+        marker_92cc953dc7319726f69040e922be5ce7.bindPopup(popup_58738a5d7b8627be3bf8037895cb53d8)
+        ;
+
+        
+    
+</script>
+</html>

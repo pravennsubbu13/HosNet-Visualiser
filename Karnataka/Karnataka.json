@@ -1,0 +1,894 @@
+{
+   "results": [
+      {
+         "name": "Dhanush Hospital Bagalkot",
+         "latitude": 16.18263,
+         "longitude": 75.69801
+      },
+      {
+         "name": "Shri Banshankari Eye Hospital",
+         "latitude": 16.18446,
+         "longitude": 75.69812
+      },
+      {
+         "name": "Sanjeevini Children & Eye Hospital",
+         "latitude": 16.18278,
+         "longitude": 75.69505
+      },
+      {
+         "name": "Sharada Ortho Speciality Hospital",
+         "latitude": 22.694432,
+         "longitude": 88.46677
+      },
+      {
+         "name": "Kerudi Healthcare Pvt. Ltd.",
+         "latitude": 16.17291,
+         "longitude": 75.67928
+      },
+      {
+         "name": "Vittal Eye Hospital",
+         "latitude": 16.185011,
+         "longitude": 75.696243
+      },
+      {
+         "name": "Manipal Hospital - Doddaballapur",
+         "latitude": 13.26668,
+         "longitude": 77.552562
+      },
+      {
+         "name": "KLES Dr Prabhakar Kore Hospital & Mrc",
+         "latitude": 15.887892,
+         "longitude": 74.519638
+      },
+      {
+         "name": "Yash Hospital",
+         "latitude": 15.85242,
+         "longitude": 74.51826
+      },
+      {
+         "name": "Life Line Hospital.",
+         "latitude": 15.82882,
+         "longitude": 74.50327
+      },
+      {
+         "name": "Sukh Shanti Speciality Hospital",
+         "latitude": 15.97808,
+         "longitude": 75.02093
+      },
+      {
+         "name": "Dakshata Hospitals Pvt Ltd.",
+         "latitude": 15.83424,
+         "longitude": 74.50431
+      },
+      {
+         "name": "Drushya Eyecare Hospital",
+         "latitude": 15.86561,
+         "longitude": 74.50781
+      },
+      {
+         "name": "Apoorva Multispeciality Hospital",
+         "latitude": 15.84841,
+         "longitude": 74.51654
+      },
+      {
+         "name": "Ganga Surgical & Fracture Clinic",
+         "latitude": 28.20586,
+         "longitude": 76.81227
+      },
+      {
+         "name": "Dr Kodkany's Eye Centre",
+         "latitude": 15.87551,
+         "longitude": 74.51426
+      },
+      {
+         "name": "BHS Lakeview Heart and Super Speciality Hospital",
+         "latitude": 15.863423,
+         "longitude": 74.526543
+      },
+      {
+         "name": "Vasan Eye Care Hospital Belgaum",
+         "latitude": 15.86714,
+         "longitude": 74.51013
+      },
+      {
+         "name": "Deccan Medical Centre",
+         "latitude": 15.846244,
+         "longitude": 74.507464
+      },
+      {
+         "name": "Netradarshan Superspeciality Eye Hospital",
+         "latitude": 15.831727,
+         "longitude": 74.502764
+      },
+      {
+         "name": "BHS Lakeview Hospital",
+         "latitude": 15.863351,
+         "longitude": 74.526636
+      },
+      {
+         "name": "Gizare Maternity Hospital",
+         "latitude": 15.85446,
+         "longitude": 74.51098
+      },
+      {
+         "name": "Arunodaya Hospital",
+         "latitude": 15.160091,
+         "longitude": 76.915904
+      },
+      {
+         "name": "Dipali Hospital",
+         "latitude": 15.265923,
+         "longitude": 76.373873
+      },
+      {
+         "name": "Maithri Hospital",
+         "latitude": 15.265061,
+         "longitude": 76.427384
+      },
+      {
+         "name": "Citi Hospital Bellary",
+         "latitude": 15.262053,
+         "longitude": 76.380659
+      },
+      {
+         "name": "Mehta Eye Care Hospital",
+         "latitude": 15.14076,
+         "longitude": 76.92608
+      },
+      {
+         "name": "Umakant Eye Hospital",
+         "latitude": 15.27749,
+         "longitude": 76.38793
+      },
+      {
+         "name": "Sree Thirumala Hospital",
+         "latitude": 15.156673,
+         "longitude": 76.939873
+      },
+      {
+         "name": "S R Multispeciality Hospital",
+         "latitude": 15.14657,
+         "longitude": 76.9042
+      },
+      {
+         "name": "Anupamaa Hospital",
+         "latitude": 13.09379,
+         "longitude": 77.58935
+      },
+      {
+         "name": "Manipal Hospital - Doddaballapur",
+         "latitude": 13.26668,
+         "longitude": 77.552562
+      },
+      {
+         "name": "Prayavi Hospital & Diagnostics",
+         "latitude": 17.920525,
+         "longitude": 77.510212
+      },
+      {
+         "name": "Megur Eye Care Centre",
+         "latitude": 17.919282,
+         "longitude": 77.510111
+      },
+      {
+         "name": "Aarogya Hospital",
+         "latitude": 17.915549,
+         "longitude": 77.512394
+      },
+      {
+         "name": "Shree Hospital Bidar",
+         "latitude": 17.9193,
+         "longitude": 77.51028
+      },
+      {
+         "name": "Vasu Hospital",
+         "latitude": 17.90187,
+         "longitude": 77.51623
+      },
+      {
+         "name": "Gudage Hospital",
+         "latitude": 17.91494,
+         "longitude": 77.51279
+      },
+      {
+         "name": "Akki Hospital",
+         "latitude": 16.825534,
+         "longitude": 75.684204
+      },
+      {
+         "name": "Sasnur Hospital Bijapur",
+         "latitude": 16.826645,
+         "longitude": 75.726943
+      },
+      {
+         "name": "Sky Hospital",
+         "latitude": 22.08818,
+         "longitude": 82.179
+      },
+      {
+         "name": "R K Hospital",
+         "latitude": 16.82664,
+         "longitude": 75.74066
+      },
+      {
+         "name": "Shri Ganapatlal Agarwal Memorial Ayush Multispecialty Hospital & Research Centre",
+         "latitude": 16.808644,
+         "longitude": 75.725217
+      },
+      {
+         "name": "Vasudev Hospitals Pvt Ltd.*",
+         "latitude": 16.828562,
+         "longitude": 75.711584
+      },
+      {
+         "name": "Mudhol Hospital",
+         "latitude": 16.824747,
+         "longitude": 75.738566
+      },
+      {
+         "name": "JSS Hospital",
+         "latitude": 11.92765,
+         "longitude": 76.94942
+      },
+      {
+         "name": "Vaatsalya Hospital Chikmagalur",
+         "latitude": 13.33011,
+         "longitude": 75.77302
+      },
+      {
+         "name": "Ashraya Hospital Chickmagalur",
+         "latitude": 13.315715,
+         "longitude": 75.772976
+      },
+      {
+         "name": "Holy Cross Hospital",
+         "latitude": 13.33861,
+         "longitude": 75.80353
+      },
+      {
+         "name": "Annapurna Hospital",
+         "latitude": 13.31715,
+         "longitude": 75.77009
+      },
+      {
+         "name": "Deccan Hospital",
+         "latitude": 13.4342,
+         "longitude": 77.7242
+      },
+      {
+         "name": "Mysore Hospital",
+         "latitude": 12.349823,
+         "longitude": 76.660262
+      },
+      {
+         "name": "Jeevan Hospital.",
+         "latitude": 13.43504,
+         "longitude": 77.73111
+      },
+      {
+         "name": "Soumya Eye Hospital",
+         "latitude": 13.42411,
+         "longitude": 77.729
+      },
+      {
+         "name": "Sri Thirumala Hospital Challakere",
+         "latitude": 14.31628,
+         "longitude": 76.64628
+      },
+      {
+         "name": "Pathanjali Hospitals Pvt Ltd.",
+         "latitude": 12.973438,
+         "longitude": 77.578753
+      },
+      {
+         "name": "Basappa Multispeciality Hospital",
+         "latitude": 14.22928,
+         "longitude": 76.40961
+      },
+      {
+         "name": "KMC Hospitals",
+         "latitude": 12.871928,
+         "longitude": 74.848909
+      },
+      {
+         "name": "Mangalore Institute of Oncology",
+         "latitude": 12.867493,
+         "longitude": 74.866653
+      },
+      {
+         "name": "Mangala Hospital & Mangala Kidney Foundation",
+         "latitude": 12.884667,
+         "longitude": 74.853826
+      },
+      {
+         "name": "Somayaji Hospital",
+         "latitude": 12.88248,
+         "longitude": 75.03187
+      },
+      {
+         "name": "Yenepoya Medical College Hospital",
+         "latitude": 12.81224,
+         "longitude": 74.88054
+      },
+      {
+         "name": "Tara Hospital",
+         "latitude": 31.104811,
+         "longitude": 77.173733
+      },
+      {
+         "name": "A.J. Hospital & Research Centre",
+         "latitude": 12.899037,
+         "longitude": 74.845985
+      },
+      {
+         "name": "Global Multispeciality Hospitals",
+         "latitude": 12.896809,
+         "longitude": 74.834617
+      },
+      {
+         "name": "Unity Care & Health Services Pvt Ltd.",
+         "latitude": 12.867703,
+         "longitude": 74.8541
+      },
+      {
+         "name": "Srinivasa Institute of Medical Sciences & Research Centre Hospital",
+         "latitude": 13.021785,
+         "longitude": 74.791096
+      },
+      {
+         "name": "Prasad Netralaya Mangalore",
+         "latitude": 12.88648,
+         "longitude": 74.83825
+      },
+      {
+         "name": "Indiana Hospital and Heart Institute Ltd.",
+         "latitude": 12.86766,
+         "longitude": 74.86634
+      },
+      {
+         "name": "Pragathi Speciality Hospital",
+         "latitude": 12.76767,
+         "longitude": 75.19608
+      },
+      {
+         "name": "Father Muller Medical College Hospital Mangalore",
+         "latitude": 12.867015,
+         "longitude": 74.861559
+      },
+      {
+         "name": "Vinaya Hospital and Research Centre",
+         "latitude": 12.87821,
+         "longitude": 74.846642
+      },
+      {
+         "name": "Chethana Hopsital",
+         "latitude": 12.75923,
+         "longitude": 75.20155
+      },
+      {
+         "name": "First Neuro Hospital",
+         "latitude": 12.87058,
+         "longitude": 74.89587
+      },
+      {
+         "name": "Fr L M Pinto Health Centre Charitable Trust",
+         "latitude": 12.99932,
+         "longitude": 75.23532
+      },
+      {
+         "name": "Tejasvini Hospital and Ssiot",
+         "latitude": 12.880187,
+         "longitude": 74.853592
+      },
+      {
+         "name": "Athena Hospital",
+         "latitude": 12.914154,
+         "longitude": 74.855955
+      },
+      {
+         "name": "Indira Hospital",
+         "latitude": 12.868095,
+         "longitude": 74.849947
+      },
+      {
+         "name": "Justice K S Hegde Charitable Hospital",
+         "latitude": 12.807826,
+         "longitude": 74.88839
+      },
+      {
+         "name": "Colaco Hospital",
+         "latitude": 12.876237,
+         "longitude": 74.857235
+      },
+      {
+         "name": "City Hospital Research & Diagnostic Centre",
+         "latitude": 12.883098,
+         "longitude": 74.852943
+      },
+      {
+         "name": "Vasan Eye Care Hospital Mangalore",
+         "latitude": 12.8792,
+         "longitude": 74.85219
+      },
+      {
+         "name": "Srushti Speciality Hospital",
+         "latitude": 14.437727,
+         "longitude": 75.922641
+      },
+      {
+         "name": "Susruta Eye Clinic & Laser Centre",
+         "latitude": 14.4633,
+         "longitude": 75.91694
+      },
+      {
+         "name": "Spandana Urology Centre",
+         "latitude": 14.46242,
+         "longitude": 75.9145
+      },
+      {
+         "name": "SSIMS Sparsh Centre For Accidents Bone & Joint Care",
+         "latitude": 14.445361,
+         "longitude": 75.889729
+      },
+      {
+         "name": "Suchethana Hospital",
+         "latitude": 14.460535,
+         "longitude": 75.917809
+      },
+      {
+         "name": "Vasan Eye Care Hospital Davangere",
+         "latitude": 14.45883,
+         "longitude": 75.91891
+      },
+      {
+         "name": "Nayana Super Speciality Eye Hospital & Research Center",
+         "latitude": 14.455483,
+         "longitude": 75.914792
+      },
+      {
+         "name": "City Central Hospital Pvt Ltd.",
+         "latitude": 14.463308,
+         "longitude": 75.917785
+      },
+      {
+         "name": "Vithal Institute of Child Health and Speciality Centre",
+         "latitude": 15.45996,
+         "longitude": 75.00611
+      },
+      {
+         "name": "Vasan Eye Care Hospital Dharwad",
+         "latitude": 15.4578,
+         "longitude": 75.00752
+      },
+      {
+         "name": "Dr. R.B. Patil Hospital",
+         "latitude": 15.358542,
+         "longitude": 75.126379
+      },
+      {
+         "name": "Vaatsalya Hospital Gadag",
+         "latitude": 15.43291,
+         "longitude": 75.64315
+      },
+      {
+         "name": "Sankanur Hospital (Dr Prakash S Sankanur)",
+         "latitude": 15.43771,
+         "longitude": 75.63811
+      },
+      {
+         "name": "Basel Mission Csi Hospital",
+         "latitude": 15.44342,
+         "longitude": 75.64199
+      },
+      {
+         "name": "Sri Sai Krupa Hospital Gulbarga",
+         "latitude": 17.325076,
+         "longitude": 76.819643
+      },
+      {
+         "name": "Tippu Sultan Maternity & General Hospital",
+         "latitude": 17.316978,
+         "longitude": 76.85188
+      },
+      {
+         "name": "Vaatsalya Life Hospital",
+         "latitude": 12.29526,
+         "longitude": 76.648206
+      },
+      {
+         "name": "Vaatsalya Hospital Hassan",
+         "latitude": 13.00942,
+         "longitude": 76.10265
+      },
+      {
+         "name": "Mangala Hospital",
+         "latitude": 13.004791,
+         "longitude": 76.107694
+      },
+      {
+         "name": "Vasan Eye Care Hospital Hassan",
+         "latitude": 13.00543,
+         "longitude": 76.10726
+      },
+      {
+         "name": "S.S.M Hospital",
+         "latitude": 13.262785,
+         "longitude": 76.470475
+      },
+      {
+         "name": "Janapriya Hospital",
+         "latitude": 13.004139,
+         "longitude": 76.106866
+      },
+      {
+         "name": "Sri Manjunatha Hospital",
+         "latitude": 13.0035,
+         "longitude": 76.10648
+      },
+      {
+         "name": "Mani Super Speciality Hospital and Research Institute",
+         "latitude": 13.0065,
+         "longitude": 76.10717
+      },
+      {
+         "name": "Sri Hasanamba Gastroenterology Centre&Multispeciality Hospital(Basavaraja Gn)",
+         "latitude": 13.0244,
+         "longitude": 76.10772
+      },
+      {
+         "name": "Tanya Speciality Hospital",
+         "latitude": 13.00499,
+         "longitude": 76.10841
+      },
+      {
+         "name": "Parvathamma Mahadevagouda Heggeri Hospital",
+         "latitude": 14.79355,
+         "longitude": 75.39468
+      },
+      {
+         "name": "Sri Rajarajeshwari Hospital",
+         "latitude": 12.4243,
+         "longitude": 75.733617
+      },
+      {
+         "name": "Vasan Eye Care Hospital Madikeri",
+         "latitude": 12.42054,
+         "longitude": 75.73537
+      },
+      {
+         "name": "Vasan Eye Care Hospital",
+         "latitude": 13.13576,
+         "longitude": 78.13252
+      },
+      {
+         "name": "Mannan Maternity and Infertility Centre",
+         "latitude": 12.95655,
+         "longitude": 78.270845
+      },
+      {
+         "name": "Shreya Hospital",
+         "latitude": 13.13709,
+         "longitude": 78.13643
+      },
+      {
+         "name": "Bharani Hospital.",
+         "latitude": 13.016024,
+         "longitude": 77.935298
+      },
+      {
+         "name": "Lakshmi Hospital",
+         "latitude": 13.130417,
+         "longitude": 78.131632
+      },
+      {
+         "name": "K S Health Care",
+         "latitude": 15.34993,
+         "longitude": 76.1642
+      },
+      {
+         "name": "Subhas Kakhandki Eye Hospital",
+         "latitude": 15.35195,
+         "longitude": 76.15101
+      },
+      {
+         "name": "Sanjo Hospital",
+         "latitude": 12.54635,
+         "longitude": 76.93506
+      },
+      {
+         "name": "Mandya Multispeciality Hospital",
+         "latitude": 12.52511,
+         "longitude": 76.89658
+      },
+      {
+         "name": "Archana Hospital",
+         "latitude": 30.335102,
+         "longitude": 78.030468
+      },
+      {
+         "name": "Kaveri Eye Hospital",
+         "latitude": 12.66556,
+         "longitude": 76.49063
+      },
+      {
+         "name": "G Madegowda Superspeciality Hospital",
+         "latitude": 12.48496,
+         "longitude": 77.03557
+      },
+      {
+         "name": "Shree Dayananda Nursing Home",
+         "latitude": 12.38565,
+         "longitude": 77.05855
+      },
+      {
+         "name": "Spandana Hospital Mandya",
+         "latitude": 12.525,
+         "longitude": 76.89826
+      },
+      {
+         "name": "Belaku Eye Hospitals Pvt Ltd. Mandya",
+         "latitude": 12.52596,
+         "longitude": 76.89854
+      },
+      {
+         "name": "Pragathi Hospital Mandya",
+         "latitude": 12.52328,
+         "longitude": 76.89885
+      },
+      {
+         "name": "Sharadha Health Care Centre",
+         "latitude": 12.52415,
+         "longitude": 76.90056
+      },
+      {
+         "name": "Prashanth Medical Services",
+         "latitude": 12.5232,
+         "longitude": 76.90091
+      },
+      {
+         "name": "Dr. Agarwal's Health Care Ltd. - Mysore",
+         "latitude": 12.28638,
+         "longitude": 76.63095
+      },
+      {
+         "name": "Aadhithya Adhikari Hospital",
+         "latitude": 12.337921,
+         "longitude": 76.624078
+      },
+      {
+         "name": "Shubhodaya Hospital.",
+         "latitude": 12.31337,
+         "longitude": 76.69216
+      },
+      {
+         "name": "Sundargiri Hospital",
+         "latitude": 12.11938,
+         "longitude": 76.67988
+      },
+      {
+         "name": "Ashwini Hospital",
+         "latitude": 12.29484,
+         "longitude": 76.64557
+      },
+      {
+         "name": "Gopala Gowda Shanthaveri Memorial Hospital",
+         "latitude": 12.311995,
+         "longitude": 76.667893
+      },
+      {
+         "name": "Balanku Orthopaedic & Maternity Hospital",
+         "latitude": 16.211491,
+         "longitude": 77.360003
+      },
+      {
+         "name": "Vijay Polyclinic and Nursing Home",
+         "latitude": 16.19745,
+         "longitude": 77.34683
+      },
+      {
+         "name": "BGS Gleneagles Global Hospitals",
+         "latitude": 12.730866,
+         "longitude": 77.278398
+      },
+      {
+         "name": "Ramakrishna Hospital",
+         "latitude": 12.72817,
+         "longitude": 77.27474
+      },
+      {
+         "name": "Subash Medical Centre",
+         "latitude": 12.80096,
+         "longitude": 77.39459
+      },
+      {
+         "name": "Mathrushree Orthopedic & Trauma Centre",
+         "latitude": 12.65139,
+         "longitude": 77.19848
+      },
+      {
+         "name": "Belaku Eye Hospitals Pvt Ltd.",
+         "latitude": 12.723417,
+         "longitude": 77.274928
+      },
+      {
+         "name": "Subbaih Medical College Hospital & Research Centre",
+         "latitude": 13.940232,
+         "longitude": 75.568856
+      },
+      {
+         "name": "Subbaiah Hospital",
+         "latitude": 13.940138,
+         "longitude": 75.568878
+      },
+      {
+         "name": "Maax Super Speciality Hospital",
+         "latitude": 13.93812,
+         "longitude": 75.57167
+      },
+      {
+         "name": "HCG Malnad Hospital and Institute of Oncology",
+         "latitude": 13.88765,
+         "longitude": 75.64208
+      },
+      {
+         "name": "Sadhana Eye Hospital",
+         "latitude": 13.934556,
+         "longitude": 75.573519
+      },
+      {
+         "name": "Vaatsalya Hospital Shimoga",
+         "latitude": 13.93814,
+         "longitude": 75.57868
+      },
+      {
+         "name": "Sarji Hospital",
+         "latitude": 13.93786,
+         "longitude": 75.57195
+      },
+      {
+         "name": "Bhadra Nursing Home",
+         "latitude": 13.84824,
+         "longitude": 75.7085
+      },
+      {
+         "name": "Adarsh Super Speciality Eye Hospital",
+         "latitude": 13.93715,
+         "longitude": 75.56751
+      },
+      {
+         "name": "Sri Krishna Hospital",
+         "latitude": 13.69673,
+         "longitude": 75.24578
+      },
+      {
+         "name": "Metro United Healthcare LLP",
+         "latitude": 13.94044,
+         "longitude": 75.57502
+      },
+      {
+         "name": "Nayana Hopital",
+         "latitude": 13.846464,
+         "longitude": 75.706914
+      },
+      {
+         "name": "Vasan Eye Care Hospital Shimoga",
+         "latitude": 13.93872,
+         "longitude": 75.57086
+      },
+      {
+         "name": "Vinayaka Hospital Tumkur",
+         "latitude": 12.937384,
+         "longitude": 77.549645
+      },
+      {
+         "name": "Surya Hospital Tumkur",
+         "latitude": 12.942617,
+         "longitude": 77.56346
+      },
+      {
+         "name": "Shridevi Institute of Medical Sciences & Research Hospital",
+         "latitude": 13.375174,
+         "longitude": 77.09679
+      },
+      {
+         "name": "Hemavathi Orthopaedic & Trauma Care",
+         "latitude": 13.335899,
+         "longitude": 77.10875
+      },
+      {
+         "name": "M.C. Orthopaedic Arthroscopy & Joint Replacement Center",
+         "latitude": 13.333882,
+         "longitude": 77.117283
+      },
+      {
+         "name": "Pavana Hospital",
+         "latitude": 13.34003,
+         "longitude": 77.10995
+      },
+      {
+         "name": "Sarvodaya Multispeciality Hospital",
+         "latitude": 29.157043,
+         "longitude": 75.720785
+      },
+      {
+         "name": "Dr. K. Narasimhaiah Hospital",
+         "latitude": 13.335481,
+         "longitude": 77.09903
+      },
+      {
+         "name": "Aruna Hospital Tumkur",
+         "latitude": 13.33755,
+         "longitude": 77.10867
+      },
+      {
+         "name": "Aadhya Hospital Tumkur",
+         "latitude": 13.33891,
+         "longitude": 77.1139
+      },
+      {
+         "name": "Vasan Eye Care Hospital Tumkur",
+         "latitude": 13.33532,
+         "longitude": 77.1088
+      },
+      {
+         "name": "Kasturba Hospital Tumkur",
+         "latitude": 13.324872,
+         "longitude": 77.111121
+      },
+      {
+         "name": "Sri Manjunatha Hospital",
+         "latitude": 13.63202,
+         "longitude": 74.68986
+      },
+      {
+         "name": "Hitech Medicare Hospital",
+         "latitude": 12.972442,
+         "longitude": 74.863174
+      },
+      {
+         "name": "New City Hospital",
+         "latitude": 13.339056,
+         "longitude": 74.745134
+      },
+      {
+         "name": "Adarsha Hospital",
+         "latitude": 13.621287,
+         "longitude": 74.692068
+      },
+      {
+         "name": "Manjunatha Eye Hospital",
+         "latitude": 13.34379,
+         "longitude": 74.74358
+      },
+      {
+         "name": "City Hospital",
+         "latitude": 13.339381,
+         "longitude": 74.746169
+      },
+      {
+         "name": "Mitra Hospital",
+         "latitude": 13.33232,
+         "longitude": 74.746048
+      },
+      {
+         "name": "Sri Devi Hospital Udupi",
+         "latitude": 13.62108,
+         "longitude": 74.69491
+      },
+      {
+         "name": "Prasad Netralaya",
+         "latitude": 13.339002,
+         "longitude": 74.746828
+      },
+      {
+         "name": "Marikamba Hospital & Diagnostic Center",
+         "latitude": 14.617181,
+         "longitude": 74.850018
+      },
+      {
+         "name": "Shetty Eye Hospital",
+         "latitude": 14.81072,
+         "longitude": 74.12895
+      }
+   ]
+}

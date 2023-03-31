@@ -1,0 +1,634 @@
+{
+   "results": [
+      {
+         "name": "Providence Hospital",
+         "latitude": 9.52605,
+         "longitude": 76.32861
+      },
+      {
+         "name": "Sanjos Hospital and Research Cneter",
+         "latitude": 9.50758,
+         "longitude": 76.32821
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-ALAPPUZHA",
+         "latitude": 10.79394,
+         "longitude": 76.82696
+      },
+      {
+         "name": "Sreekantapuram Hospital Alappuzha",
+         "latitude": 9.250576,
+         "longitude": 76.540081
+      },
+      {
+         "name": "Sanjivani Multi Speciality Hospital",
+         "latitude": 9.259185,
+         "longitude": 76.596195
+      },
+      {
+         "name": "Century Hospital",
+         "latitude": 9.30281,
+         "longitude": 76.634619
+      },
+      {
+         "name": "Madonna Health Care",
+         "latitude": 10.184909,
+         "longitude": 76.375305
+      },
+      {
+         "name": "Maj Hospital",
+         "latitude": 10.021333,
+         "longitude": 76.308046
+      },
+      {
+         "name": "Kristu Jayanthi Hospital",
+         "latitude": 10.037021,
+         "longitude": 76.224915
+      },
+      {
+         "name": "Welcare Hospital",
+         "latitude": 9.969865,
+         "longitude": 76.315584
+      },
+      {
+         "name": "V G Saraf Memorial Hospital (P) Ltd.",
+         "latitude": 9.931233,
+         "longitude": 76.267304
+      },
+      {
+         "name": "Vasan Eye Care Hospital Cochin",
+         "latitude": 9.95467,
+         "longitude": 76.29273
+      },
+      {
+         "name": "Thaqdees Hospital",
+         "latitude": 10.070787,
+         "longitude": 76.397188
+      },
+      {
+         "name": "Muvattupuzha Medical Centre",
+         "latitude": 9.979848,
+         "longitude": 76.573807
+      },
+      {
+         "name": "Vimala Hospital Kerala",
+         "latitude": 10.144657,
+         "longitude": 76.424873
+      },
+      {
+         "name": "Samaritan Heart Institute",
+         "latitude": 10.102121,
+         "longitude": 76.35794
+      },
+      {
+         "name": "Najath Hospital",
+         "latitude": 10.111006,
+         "longitude": 76.3516
+      },
+      {
+         "name": "Holy Family Hospital Kerala",
+         "latitude": 9.91214,
+         "longitude": 76.73375
+      },
+      {
+         "name": "Chazhikattu Hospital Idukki",
+         "latitude": 9.89807,
+         "longitude": 76.70985
+      },
+      {
+         "name": "Ashoka Hospital Kannur",
+         "latitude": 11.877477,
+         "longitude": 75.374615
+      },
+      {
+         "name": "Koyili Hospital Kannur",
+         "latitude": 11.88726,
+         "longitude": 75.37075
+      },
+      {
+         "name": "Gimcare Hospital",
+         "latitude": 11.83969,
+         "longitude": 75.4278
+      },
+      {
+         "name": "Jyothis Eye Care",
+         "latitude": 11.89658,
+         "longitude": 75.36809
+      },
+      {
+         "name": "Malabar Institute of Medical Sciences Ltd. Kannur",
+         "latitude": 11.83963,
+         "longitude": 75.42957
+      },
+      {
+         "name": "Dr Binu's Sunrise Eye Care",
+         "latitude": 11.88972,
+         "longitude": 75.3697
+      },
+      {
+         "name": "Vasan Eye Care Hospital Thalassery",
+         "latitude": 11.74969,
+         "longitude": 75.49162
+      },
+      {
+         "name": "Lourde Hospital",
+         "latitude": 12.034712,
+         "longitude": 75.352878
+      },
+      {
+         "name": "Indira Gandhi Cooperative Hospital",
+         "latitude": 11.74939,
+         "longitude": 75.500008
+      },
+      {
+         "name": "Tellicherry Co-Operative Hospital",
+         "latitude": 11.770125,
+         "longitude": 75.498552
+      },
+      {
+         "name": "Vasan Eye Care Hospital Kannur",
+         "latitude": 11.86713,
+         "longitude": 75.3661
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-Kasargod",
+         "latitude": 12.31426,
+         "longitude": 75.10567
+      },
+      {
+         "name": "Carewell Hospital and Research Centre Pvt Ltd.",
+         "latitude": 12.512871,
+         "longitude": 75.031909
+      },
+      {
+         "name": "Kasaragod Institute of Medical Sciences",
+         "latitude": 12.49247,
+         "longitude": 74.990623
+      },
+      {
+         "name": "Travancore Medical College Hospital",
+         "latitude": 8.875839,
+         "longitude": 76.643954
+      },
+      {
+         "name": "KIMS Kollam Multispeciality Hospital India Pvt Ltd.",
+         "latitude": 8.86453,
+         "longitude": 76.68138
+      },
+      {
+         "name": "Bishop Benziger Hospital",
+         "latitude": 8.881037,
+         "longitude": 76.592708
+      },
+      {
+         "name": "Padmavathy Medical Foundation Kollam",
+         "latitude": 9.05319,
+         "longitude": 76.63349
+      },
+      {
+         "name": "Dr. Nair's Hospital",
+         "latitude": 8.89526,
+         "longitude": 76.59909
+      },
+      {
+         "name": "Sreenethra Precise Speciality Eye Care Pvt Ltd.",
+         "latitude": 8.99939,
+         "longitude": 76.76811
+      },
+      {
+         "name": "Meditrina Hospitals Pvt. Ltd.",
+         "latitude": 8.892861,
+         "longitude": 76.632685
+      },
+      {
+         "name": "Pranavam Hospital (P) Ltd.",
+         "latitude": 9.016029,
+         "longitude": 76.926708
+      },
+      {
+         "name": "Azeezia Medical College Hospital",
+         "latitude": 8.89078,
+         "longitude": 76.733939
+      },
+      {
+         "name": "Assisi Atonement Hospital",
+         "latitude": 8.940379,
+         "longitude": 76.681223
+      },
+      {
+         "name": "St.Joseph Mission Hospital",
+         "latitude": 8.922513,
+         "longitude": 76.906683
+      },
+      {
+         "name": "Matha Medical Centre",
+         "latitude": 8.914714,
+         "longitude": 76.588777
+      },
+      {
+         "name": "Upasana Hospital",
+         "latitude": 8.888474,
+         "longitude": 76.596712
+      },
+      {
+         "name": "Pearl Hospital",
+         "latitude": 9.065442,
+         "longitude": 76.531482
+      },
+      {
+         "name": "Valiyath Institute of Medical Sciences",
+         "latitude": 9.054454,
+         "longitude": 76.535961
+      },
+      {
+         "name": "St.Thomas Hospital.",
+         "latitude": 9.462209,
+         "longitude": 76.552813
+      },
+      {
+         "name": "Caritas Hospital.",
+         "latitude": 9.645258,
+         "longitude": 76.549907
+      },
+      {
+         "name": "Little Lourdes Mission Hospital.",
+         "latitude": 9.6836,
+         "longitude": 76.61222
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital - Kottayam",
+         "latitude": 9.65145,
+         "longitude": 76.55075
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-Kottayam",
+         "latitude": 9.43604,
+         "longitude": 76.53924
+      },
+      {
+         "name": "Indo American Hospital",
+         "latitude": 9.791175,
+         "longitude": 76.377085
+      },
+      {
+         "name": "Holy Ghost Mission Hospital Kerala",
+         "latitude": 9.757509,
+         "longitude": 76.499723
+      },
+      {
+         "name": "Cherupushpam Trust Hospital",
+         "latitude": 9.715844,
+         "longitude": 76.689365
+      },
+      {
+         "name": "Bharath Hospital",
+         "latitude": 9.58952,
+         "longitude": 76.51953
+      },
+      {
+         "name": "Vasan Eye Care Hospital Kottayam",
+         "latitude": 9.58517,
+         "longitude": 76.51399
+      },
+      {
+         "name": "Matha Hospital",
+         "latitude": 9.648451,
+         "longitude": 76.549562
+      },
+      {
+         "name": "Sacred Heart Medical Centre",
+         "latitude": 9.594306,
+         "longitude": 76.529495
+      },
+      {
+         "name": "Mercy Nursing Home Pvt Ltd.",
+         "latitude": 9.497152,
+         "longitude": 76.629719
+      },
+      {
+         "name": "Mundakkayam Medical Trust Hospital",
+         "latitude": 9.53533,
+         "longitude": 76.90894
+      },
+      {
+         "name": "Malabar Institute of Medical Sciences Ltd.",
+         "latitude": 11.2458,
+         "longitude": 75.79854
+      },
+      {
+         "name": "Baby Memorial Hospital Ltd.",
+         "latitude": 11.259669,
+         "longitude": 75.792196
+      },
+      {
+         "name": "Vasan Eye Care Hospital Calicut",
+         "latitude": 11.25774,
+         "longitude": 75.79117
+      },
+      {
+         "name": "P V S Hospital (P) Ltd.",
+         "latitude": 11.242715,
+         "longitude": 75.782935
+      },
+      {
+         "name": "Cradle Calicut Maternity Care Pvt. Ltd.",
+         "latitude": 11.243562,
+         "longitude": 75.836601
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-KOZHIKODE",
+         "latitude": 11.58876,
+         "longitude": 75.59173
+      },
+      {
+         "name": "Lisa Hospital",
+         "latitude": 11.36179,
+         "longitude": 76.01267
+      },
+      {
+         "name": "Metro International Cardiac Centre",
+         "latitude": 11.232571,
+         "longitude": 75.824343
+      },
+      {
+         "name": "Vasan Eye Care Hospital Patteri",
+         "latitude": 11.5086,
+         "longitude": 75.80522
+      },
+      {
+         "name": "Ascent ENT Hospital Kozhikode",
+         "latitude": 11.28799,
+         "longitude": 75.80083
+      },
+      {
+         "name": "KIMS Trust Hospital(An Initiative of Koduvally Institute of Medical Sciences Pvt",
+         "latitude": 11.35147,
+         "longitude": 75.898651
+      },
+      {
+         "name": "Alsalama Eye Hospital",
+         "latitude": 11.26114,
+         "longitude": 75.786565
+      },
+      {
+         "name": "KMCT Medical College Hospital",
+         "latitude": 11.326265,
+         "longitude": 75.989863
+      },
+      {
+         "name": "Starcare Hospiatl Kozhikode Pvt Ltd.",
+         "latitude": 11.269127,
+         "longitude": 75.809463
+      },
+      {
+         "name": "National Hospital Calicut",
+         "latitude": 11.259651,
+         "longitude": 75.781213
+      },
+      {
+         "name": "IQRAA International Hospital & Research Centre",
+         "latitude": 11.286381,
+         "longitude": 75.797645
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital - Malappuram",
+         "latitude": 11.12096,
+         "longitude": 76.1122
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-MALAPPURAM",
+         "latitude": 10.78502,
+         "longitude": 75.94675
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-MALAPPURAM 1",
+         "latitude": 10.99805,
+         "longitude": 75.98815
+      },
+      {
+         "name": "Eye Foundation Ltd.",
+         "latitude": 11.04306,
+         "longitude": 76.07677
+      },
+      {
+         "name": "Moulana Hospital Kerela",
+         "latitude": 10.981204,
+         "longitude": 76.225272
+      },
+      {
+         "name": "KIMS Al Shifa Healthcare Pvt Ltd.",
+         "latitude": 10.9848,
+         "longitude": 76.223879
+      },
+      {
+         "name": "Rayhan Eye Hospital & Lasik Centre",
+         "latitude": 10.78598,
+         "longitude": 76.0096
+      },
+      {
+         "name": "Relief Hospital and Trauma Centre",
+         "latitude": 11.14345,
+         "longitude": 75.96573
+      },
+      {
+         "name": "NIMS Hospital (P) Ltd.",
+         "latitude": 11.19304,
+         "longitude": 76.24466
+      },
+      {
+         "name": "Edappal Hospitals Pvt Ltd.",
+         "latitude": 10.78245,
+         "longitude": 76.01084
+      },
+      {
+         "name": "Seventh Day Adventist Hospital",
+         "latitude": 10.785394,
+         "longitude": 76.355046
+      },
+      {
+         "name": "Valluvanad Hospital Complex Ltd.",
+         "latitude": 10.77436,
+         "longitude": 76.36055
+      },
+      {
+         "name": "Welcare Hospital",
+         "latitude": 10.770224,
+         "longitude": 76.638981
+      },
+      {
+         "name": "Ahalia Diabetes Hospital",
+         "latitude": 10.79187,
+         "longitude": 76.82757
+      },
+      {
+         "name": "Lakshmi Hospital Palakkad",
+         "latitude": 10.76371,
+         "longitude": 76.66219
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital - Palakkad",
+         "latitude": 10.79396,
+         "longitude": 76.82695
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-Palakkad 1",
+         "latitude": 10.80563,
+         "longitude": 76.19499
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital - Mannarkkad",
+         "latitude": 10.99099,
+         "longitude": 76.44229
+      },
+      {
+         "name": "Paalana Institute of Medical Sciences",
+         "latitude": 10.73884,
+         "longitude": 76.65127
+      },
+      {
+         "name": "Crescent Hospital",
+         "latitude": 10.64756,
+         "longitude": 76.54473
+      },
+      {
+         "name": "P.K. Das Institute of Medical Sciences",
+         "latitude": 10.78285,
+         "longitude": 76.32698
+      },
+      {
+         "name": "Ahalia Hospital",
+         "latitude": 10.79386,
+         "longitude": 76.82693
+      },
+      {
+         "name": "Mother Care and Health Centre Pvt Ltd.",
+         "latitude": 10.983437,
+         "longitude": 76.423226
+      },
+      {
+         "name": "Ascent ENT Hospital and Medical Centre",
+         "latitude": 10.77097,
+         "longitude": 76.65761
+      },
+      {
+         "name": "Sai Hospital Palakkad",
+         "latitude": 10.799477,
+         "longitude": 76.642715
+      },
+      {
+         "name": "Malabar Hospital",
+         "latitude": 10.749035,
+         "longitude": 76.661086
+      },
+      {
+         "name": "Vasan Eye Care Hospital Palakad",
+         "latitude": 10.76448,
+         "longitude": 76.66023
+      },
+      {
+         "name": "Thangam Hospital of Pmrc",
+         "latitude": 10.754659,
+         "longitude": 76.638564
+      },
+      {
+         "name": "Tiruvalla Medical Mission",
+         "latitude": 9.373161,
+         "longitude": 76.563995
+      },
+      {
+         "name": "Believers Church Medical College Hospital",
+         "latitude": 9.416748,
+         "longitude": 76.575061
+      },
+      {
+         "name": "Muthoot Health Care Pvt. Ltd.",
+         "latitude": 9.336066,
+         "longitude": 76.718044
+      },
+      {
+         "name": "Pushpagiri Medical College Hospital",
+         "latitude": 9.380959,
+         "longitude": 76.581693
+      },
+      {
+         "name": "Karunya Eye Hospital",
+         "latitude": 9.22735,
+         "longitude": 76.67772
+      },
+      {
+         "name": "Christian Mission Hospital",
+         "latitude": 9.265928,
+         "longitude": 76.788054
+      },
+      {
+         "name": "Karunya Eye Hospital",
+         "latitude": 9.1545,
+         "longitude": 76.73249
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-PATHANAMTHITTA 1",
+         "latitude": 9.26297,
+         "longitude": 76.78353
+      },
+      {
+         "name": "Vasan Eye Care Hospital Tiruvalla",
+         "latitude": 9.38452,
+         "longitude": 76.57714
+      },
+      {
+         "name": "MGM Muthoot Medical Center Pvt Ltd.",
+         "latitude": 9.337905,
+         "longitude": 76.710744
+      },
+      {
+         "name": "Life Line Super Speciality Hospital",
+         "latitude": 9.16348,
+         "longitude": 76.70631
+      },
+      {
+         "name": "Credence Hospital",
+         "latitude": 8.529374,
+         "longitude": 76.93098
+      },
+      {
+         "name": "S P Fort Hospital",
+         "latitude": 8.48466,
+         "longitude": 76.941578
+      },
+      {
+         "name": "Lords Hospital",
+         "latitude": 8.50727,
+         "longitude": 76.910836
+      },
+      {
+         "name": "India Hospital",
+         "latitude": 8.487495,
+         "longitude": 76.948623
+      },
+      {
+         "name": "Sut Hospital",
+         "latitude": 8.516292,
+         "longitude": 76.940365
+      },
+      {
+         "name": "S K Hospital",
+         "latitude": 8.505365,
+         "longitude": 76.971223
+      },
+      {
+         "name": "Ananthapuri Hospitals & Research Institute",
+         "latitude": 8.483676,
+         "longitude": 76.930006
+      },
+      {
+         "name": "Ahalia Foundation Eye Hospital-Wayanad",
+         "latitude": 11.60485,
+         "longitude": 76.08495
+      },
+      {
+         "name": "DM Wayanad Institute of Medical Sciences",
+         "latitude": 11.56234,
+         "longitude": 76.16164
+      }
+   ]
+}

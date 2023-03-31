@@ -1,0 +1,634 @@
+{
+   "results": [
+      {
+         "name": "Guru Nanak Mission General Hospital",
+         "latitude": 31.64246,
+         "longitude": 74.888565
+      },
+      {
+         "name": "Pulse Hospital",
+         "latitude": 31.621386,
+         "longitude": 74.906005
+      },
+      {
+         "name": "Sri Guru Ram Das Charitable Hospital Trust",
+         "latitude": 31.623056,
+         "longitude": 74.899825
+      },
+      {
+         "name": "Apollo Cradle Amritsar",
+         "latitude": 31.63599,
+         "longitude": 74.86738
+      },
+      {
+         "name": "Dr Om Parkash Eye Institute Pvt Ltd.",
+         "latitude": 31.64196,
+         "longitude": 74.87452
+      },
+      {
+         "name": "The Corporate Hospital.",
+         "latitude": 31.64946,
+         "longitude": 74.90706
+      },
+      {
+         "name": "Mundh Hospital",
+         "latitude": 31.65108,
+         "longitude": 74.86329
+      },
+      {
+         "name": "Fortis Escorts Hospital Amritsar",
+         "latitude": 31.66476,
+         "longitude": 74.91828
+      },
+      {
+         "name": "Punjab Eye Hospital",
+         "latitude": 30.37878,
+         "longitude": 75.52985
+      },
+      {
+         "name": "Prem Eye and Maternity Hospital",
+         "latitude": 30.36756,
+         "longitude": 75.53354
+      },
+      {
+         "name": "Dr. Naresh Hospital & Heart Centre",
+         "latitude": 30.367636,
+         "longitude": 75.540048
+      },
+      {
+         "name": "Noor Multispeciality Hospital & Trauma Centre",
+         "latitude": 30.387721,
+         "longitude": 75.543405
+      },
+      {
+         "name": "Deep Nursing Home Barnala",
+         "latitude": 30.367555,
+         "longitude": 75.540924
+      },
+      {
+         "name": "Singla Eye Hospital",
+         "latitude": 30.367543,
+         "longitude": 75.540655
+      },
+      {
+         "name": "Bhim Nursing Home",
+         "latitude": 30.372024,
+         "longitude": 75.54861
+      },
+      {
+         "name": "Healthstreet Hospitals (P) Ltd.",
+         "latitude": 30.230024,
+         "longitude": 74.934728
+      },
+      {
+         "name": "Grover Hospital",
+         "latitude": 30.210994,
+         "longitude": 74.945475
+      },
+      {
+         "name": "Ivy Hospital",
+         "latitude": 30.18197,
+         "longitude": 74.95961
+      },
+      {
+         "name": "Major Gupta Hospital",
+         "latitude": 30.222459,
+         "longitude": 74.941351
+      },
+      {
+         "name": "Nagpal Super Specialty Hospital",
+         "latitude": 30.212559,
+         "longitude": 74.942191
+      },
+      {
+         "name": "Delhi Heart Institute &Multispeciality Hospital",
+         "latitude": 30.22036,
+         "longitude": 74.93895
+      },
+      {
+         "name": "Wadi Hospital Lap Surgical and Stone Centre",
+         "latitude": 30.210994,
+         "longitude": 74.945475
+      },
+      {
+         "name": "Bombay Clinic & Multispeciality Hospital",
+         "latitude": 30.210994,
+         "longitude": 74.945475
+      },
+      {
+         "name": "Bansal Hospital & Cancer Centre",
+         "latitude": 30.19691,
+         "longitude": 74.950103
+      },
+      {
+         "name": "Chhabra Hospital Bathinda",
+         "latitude": 30.21742,
+         "longitude": 74.94559
+      },
+      {
+         "name": "Badyal Hospital",
+         "latitude": 30.19691,
+         "longitude": 74.950103
+      },
+      {
+         "name": "Punjab Cancer Care & Research Centre",
+         "latitude": 30.209298,
+         "longitude": 74.951531
+      },
+      {
+         "name": "Vikram New Born and Children Hospital& Gagan Maternity Home",
+         "latitude": 30.57712,
+         "longitude": 74.82075
+      },
+      {
+         "name": "Garg Hospital",
+         "latitude": 30.674184,
+         "longitude": 74.756724
+      },
+      {
+         "name": "Brar Eye Hospital",
+         "latitude": 30.598776,
+         "longitude": 74.809693
+      },
+      {
+         "name": "Singla Nursing & Eye Hospital",
+         "latitude": 30.582514,
+         "longitude": 74.81905
+      },
+      {
+         "name": "Rajan Hospital & Heart Centre",
+         "latitude": 30.58831,
+         "longitude": 74.817575
+      },
+      {
+         "name": "Kataria Medical Centre Pvt Ltd.",
+         "latitude": 30.58938,
+         "longitude": 74.84863
+      },
+      {
+         "name": "Dhillon Eye Hospital and Laser Centre",
+         "latitude": 30.6361,
+         "longitude": 76.39259
+      },
+      {
+         "name": "Kaushal Nursing Home",
+         "latitude": 30.66753,
+         "longitude": 76.29241
+      },
+      {
+         "name": "Sohal Hospital Multispeciality Centre",
+         "latitude": 30.61558,
+         "longitude": 76.38959
+      },
+      {
+         "name": "Rana Nursing Home Fatehgarh Sahib",
+         "latitude": 30.61597,
+         "longitude": 76.38109
+      },
+      {
+         "name": "Indus Fatehgarh Sahib Hospital",
+         "latitude": 30.64291,
+         "longitude": 76.47583
+      },
+      {
+         "name": "Life Care Hospital...",
+         "latitude": 30.81414,
+         "longitude": 76.34638
+      },
+      {
+         "name": "Nagpal Nursing Home",
+         "latitude": 30.14692,
+         "longitude": 74.2015
+      },
+      {
+         "name": "Gupta Hospital",
+         "latitude": 30.3996,
+         "longitude": 74.03178
+      },
+      {
+         "name": "Loona Nursing Home",
+         "latitude": 30.140219,
+         "longitude": 74.215863
+      },
+      {
+         "name": "Sai Hospital & Laparoscopic Surgery Centre",
+         "latitude": 30.287828,
+         "longitude": 74.112682
+      },
+      {
+         "name": "Bahri Hospital",
+         "latitude": 32.13448,
+         "longitude": 75.469078
+      },
+      {
+         "name": "Chauhan Multispeciality Hospital & Trauma Centre",
+         "latitude": 31.633979,
+         "longitude": 74.872264
+      },
+      {
+         "name": "VC Hospital",
+         "latitude": 32.28668,
+         "longitude": 75.65086
+      },
+      {
+         "name": "SKR Hospital and Trauma Centre Pvt Ltd.",
+         "latitude": 32.2716,
+         "longitude": 75.59262
+      },
+      {
+         "name": "Ajay Heart Care and Super Speciality Centre",
+         "latitude": 32.27122,
+         "longitude": 75.66654
+      },
+      {
+         "name": "Tilak Hospital",
+         "latitude": 32.255396,
+         "longitude": 75.650622
+      },
+      {
+         "name": "Babbar Heart Care Centre",
+         "latitude": 32.041942,
+         "longitude": 75.405337
+      },
+      {
+         "name": "RRM Central Hospital",
+         "latitude": 31.5293,
+         "longitude": 75.907327
+      },
+      {
+         "name": "IVY Healthcare Infrastructure Pvt. Ltd.",
+         "latitude": 31.499348,
+         "longitude": 75.949516
+      },
+      {
+         "name": "S.S. Medicity Hospital",
+         "latitude": 31.95079,
+         "longitude": 75.63023
+      },
+      {
+         "name": "S.B. Eye Care Hospital",
+         "latitude": 31.54606,
+         "longitude": 75.89924
+      },
+      {
+         "name": "Shivam Hospital",
+         "latitude": 31.52073,
+         "longitude": 75.90051
+      },
+      {
+         "name": "Narad Hospital",
+         "latitude": 31.52505,
+         "longitude": 75.914065
+      },
+      {
+         "name": "Bharaj Life-Care Hospital & Trauma Centre",
+         "latitude": 31.5258,
+         "longitude": 75.891234
+      },
+      {
+         "name": "Gursimran Hospital",
+         "latitude": 30.907674,
+         "longitude": 75.871494
+      },
+      {
+         "name": "Modi Nursing Home",
+         "latitude": 31.532439,
+         "longitude": 75.917863
+      },
+      {
+         "name": "Baweja Hospital and Maternity Home",
+         "latitude": 31.31312,
+         "longitude": 75.56013
+      },
+      {
+         "name": "Global Hospital",
+         "latitude": 31.31004,
+         "longitude": 75.58476
+      },
+      {
+         "name": "Kaushal Nursing Home",
+         "latitude": 31.37492,
+         "longitude": 75.384216
+      },
+      {
+         "name": "Mitra Eye Hospital Punjab",
+         "latitude": 31.221879,
+         "longitude": 75.767057
+      },
+      {
+         "name": "Asia Pacific Hospital Pvt. Ltd.",
+         "latitude": 31.372839,
+         "longitude": 75.376164
+      },
+      {
+         "name": "Anoop Hospital",
+         "latitude": 31.257129,
+         "longitude": 75.87445
+      },
+      {
+         "name": "Dr. Ramesh Superspecialty Eye & Laser Centre",
+         "latitude": 30.883931,
+         "longitude": 75.802562
+      },
+      {
+         "name": "Sobti Neuro and Super Speciality Hospital",
+         "latitude": 30.916882,
+         "longitude": 75.82523
+      },
+      {
+         "name": "Ace Hospital Khanna",
+         "latitude": 30.70524,
+         "longitude": 76.2113
+      },
+      {
+         "name": "Lifeline Hospital Ludhiana",
+         "latitude": 30.88363,
+         "longitude": 75.85846
+      },
+      {
+         "name": "Dhami Eye Care Hospital",
+         "latitude": 30.912117,
+         "longitude": 75.815103
+      },
+      {
+         "name": "Sirish Hospital",
+         "latitude": 30.903108,
+         "longitude": 75.82665
+      },
+      {
+         "name": "Khanna Nursing Home (Multi Speciality Centre)",
+         "latitude": 30.704501,
+         "longitude": 76.223216
+      },
+      {
+         "name": "Kalyani Hospital",
+         "latitude": 30.794297,
+         "longitude": 75.476927
+      },
+      {
+         "name": "Walia Hospital",
+         "latitude": 30.898395,
+         "longitude": 75.825869
+      },
+      {
+         "name": "Mohan Dai Oswal Cancer Treatment & Research Foundation",
+         "latitude": 30.879926,
+         "longitude": 75.8189
+      },
+      {
+         "name": "Raj Nursing Home & Endoscopic Surgical Centre",
+         "latitude": 29.981299,
+         "longitude": 75.409982
+      },
+      {
+         "name": "Pankaj Nursing Home",
+         "latitude": 29.99939,
+         "longitude": 75.39391
+      },
+      {
+         "name": "Kulwant Nursing Home & Endoscopic Surgical Center",
+         "latitude": 29.9996,
+         "longitude": 75.39364
+      },
+      {
+         "name": "Smt Satya Devi Memorial Gupta Hospital",
+         "latitude": 29.92969,
+         "longitude": 75.5466
+      },
+      {
+         "name": "Manav Hospital",
+         "latitude": 29.98588,
+         "longitude": 75.40455
+      },
+      {
+         "name": "Raikhy Nursing Home and Surgical Centre",
+         "latitude": 29.9833,
+         "longitude": 75.3833
+      },
+      {
+         "name": "Dr Amrit Paul Goyal Mansa Medicity Super Speciality Hospital",
+         "latitude": 29.98327,
+         "longitude": 75.40569
+      },
+      {
+         "name": "Aastha Hospital Moga",
+         "latitude": 30.82013,
+         "longitude": 75.17808
+      },
+      {
+         "name": "Moga Medicity Hospital",
+         "latitude": 30.820709,
+         "longitude": 75.17706
+      },
+      {
+         "name": "Gian Chand Rangwala Memorial Hospital",
+         "latitude": 30.81113,
+         "longitude": 75.17046
+      },
+      {
+         "name": "Goyal Hospital",
+         "latitude": 30.81193,
+         "longitude": 75.17056
+      },
+      {
+         "name": "HMC Hospital",
+         "latitude": 30.81956,
+         "longitude": 75.17907
+      },
+      {
+         "name": "Garg Hospital Moga",
+         "latitude": 30.8299,
+         "longitude": 75.16503
+      },
+      {
+         "name": "Cosmo Hospital",
+         "latitude": 30.699298,
+         "longitude": 76.727289
+      },
+      {
+         "name": "Chahal Hospital",
+         "latitude": 30.901636,
+         "longitude": 76.994537
+      },
+      {
+         "name": "Indus Hospital Mohali",
+         "latitude": 30.70894,
+         "longitude": 76.72253
+      },
+      {
+         "name": "Surya Kidney Care Mohali",
+         "latitude": 30.694464,
+         "longitude": 76.720993
+      },
+      {
+         "name": "Ujjawal Eye Care",
+         "latitude": 30.704649,
+         "longitude": 76.717873
+      },
+      {
+         "name": "Amar Hospital Mohali",
+         "latitude": 30.69625,
+         "longitude": 76.71625
+      },
+      {
+         "name": "Harmony Hospital",
+         "latitude": 30.719213,
+         "longitude": 76.706016
+      },
+      {
+         "name": "Behgal Hospital",
+         "latitude": 30.719223,
+         "longitude": 76.712934
+      },
+      {
+         "name": "Ace Heart & Vascular Institute",
+         "latitude": 30.69498,
+         "longitude": 76.7213
+      },
+      {
+         "name": "Usha Bansal Nursing Home",
+         "latitude": 30.47489,
+         "longitude": 74.52198
+      },
+      {
+         "name": "Platinum Nursing Home Pvt Ltd.",
+         "latitude": 30.47904,
+         "longitude": 74.53372
+      },
+      {
+         "name": "Muktsar Medicity Hospital",
+         "latitude": 30.46477,
+         "longitude": 74.53008
+      },
+      {
+         "name": "Patiala Eye and Maternity Hospital",
+         "latitude": 30.47086,
+         "longitude": 74.51932
+      },
+      {
+         "name": "Kamboj Hospital",
+         "latitude": 30.20928,
+         "longitude": 74.65346
+      },
+      {
+         "name": "Jindal Hospital and Heart Centre",
+         "latitude": 30.47664,
+         "longitude": 74.51117
+      },
+      {
+         "name": "Hi Tech Eye Hospital and Phaco Center",
+         "latitude": 31.12836,
+         "longitude": 76.12491
+      },
+      {
+         "name": "Nephrocare Health Services Pvt. Ltd. - Nawanshahr",
+         "latitude": 31.11396,
+         "longitude": 76.15241
+      },
+      {
+         "name": "Raja Diagnostic Centre and Hospital",
+         "latitude": 31.124842,
+         "longitude": 76.119656
+      },
+      {
+         "name": "IVY Hospital Super Speciality Healthcare",
+         "latitude": 31.114,
+         "longitude": 76.15254
+      },
+      {
+         "name": "Amar Hospital",
+         "latitude": 30.3329,
+         "longitude": 76.382312
+      },
+      {
+         "name": "Simrita Nursing Home",
+         "latitude": 30.481819,
+         "longitude": 76.597004
+      },
+      {
+         "name": "Sangha Hospital",
+         "latitude": 30.974739,
+         "longitude": 76.527193
+      },
+      {
+         "name": "Sharma Eye Hospital & Laser Centre",
+         "latitude": 30.972136,
+         "longitude": 76.529999
+      },
+      {
+         "name": "Pannu Eye Hospital",
+         "latitude": 30.97525,
+         "longitude": 76.52127
+      },
+      {
+         "name": "Gurdev Hospital",
+         "latitude": 31.1655,
+         "longitude": 76.47806
+      },
+      {
+         "name": "Shri Krishna Netralaya and Dantalaya",
+         "latitude": 31.39224,
+         "longitude": 76.38109
+      },
+      {
+         "name": "Bijendra Multispeciality Hospital",
+         "latitude": 30.94825,
+         "longitude": 76.51838
+      },
+      {
+         "name": "Preet Nursing Home",
+         "latitude": 30.97341,
+         "longitude": 76.52623
+      },
+      {
+         "name": "Dasmesh Healthcare Hospital",
+         "latitude": 30.96646,
+         "longitude": 76.51778
+      },
+      {
+         "name": "Dr Surjit Singh Super Speciality Hospital",
+         "latitude": 30.95504,
+         "longitude": 76.51018
+      },
+      {
+         "name": "Parmar Nursing Home Ropar",
+         "latitude": 30.965917,
+         "longitude": 76.523023
+      },
+      {
+         "name": "Dr Paramjit Eye Care Centre",
+         "latitude": 30.25453,
+         "longitude": 75.85125
+      },
+      {
+         "name": "Umeed Multi Speciality Hospital",
+         "latitude": 30.24461,
+         "longitude": 75.86303
+      },
+      {
+         "name": "Dr Manpreet S Global Eye Hospital",
+         "latitude": 30.33381,
+         "longitude": 76.41528
+      },
+      {
+         "name": "Sibia Healthcare Pvt. Ltd.",
+         "latitude": 30.246222,
+         "longitude": 75.842053
+      },
+      {
+         "name": "Rehbar Hospital",
+         "latitude": 13.07072,
+         "longitude": 80.15062
+      },
+      {
+         "name": "Mittal Healthcare",
+         "latitude": 30.26049,
+         "longitude": 75.84411
+      },
+      {
+         "name": "Singla Surgical Hospital",
+         "latitude": 30.25407,
+         "longitude": 75.836227
+      }
+   ]
+}

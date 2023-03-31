@@ -1,0 +1,304 @@
+{
+   "results": [
+      {
+         "name": "Surgery Centre",
+         "latitude": 24.8833,
+         "longitude": 86.9167
+      },
+      {
+         "name": "Surgical and Prastuti Grih",
+         "latitude": 25.41846,
+         "longitude": 86.14007
+      },
+      {
+         "name": "Shristijeevan Multispeciality Hospital Pvt Ltd.",
+         "latitude": 25.41257,
+         "longitude": 86.14318
+      },
+      {
+         "name": "Life Line Hospital and Research Center",
+         "latitude": 25.46804,
+         "longitude": 85.99588
+      },
+      {
+         "name": "Sahaj Sanjeevani Hospital",
+         "latitude": 25.41288,
+         "longitude": 86.14348
+      },
+      {
+         "name": "Kaushalya Eye Research Institute",
+         "latitude": 25.25609,
+         "longitude": 89.99649
+      },
+      {
+         "name": "Ghspl Bglp Super Speciality Healthcare LLP",
+         "latitude": 25.24135,
+         "longitude": 87.01584
+      },
+      {
+         "name": "Garib Nawaz Eye Care Bhagalpur",
+         "latitude": 25.25063,
+         "longitude": 86.9721
+      },
+      {
+         "name": "Laxmi Netralaya Pvt. Ltd.",
+         "latitude": 25.55962,
+         "longitude": 84.66802
+      },
+      {
+         "name": "Paras Global Hospital",
+         "latitude": 26.136299,
+         "longitude": 85.90835
+      },
+      {
+         "name": "Sarraf Ortho Spine and Maternity Centre",
+         "latitude": 26.13087,
+         "longitude": 85.89467
+      },
+      {
+         "name": "ASG Hospital Pvt. Ltd. - Darbhanga",
+         "latitude": 26.12646,
+         "longitude": 85.90309
+      },
+      {
+         "name": "Rahmania Medical Centre Pvt Ltd.",
+         "latitude": 24.64111,
+         "longitude": 84.9242
+      },
+      {
+         "name": "Siddharth Nursing Home",
+         "latitude": 24.79361,
+         "longitude": 85.0244
+      },
+      {
+         "name": "Hi- Tech Clinic",
+         "latitude": 24.92326,
+         "longitude": 86.220238
+      },
+      {
+         "name": "Aditya Seva Sadan",
+         "latitude": 24.92326,
+         "longitude": 86.220238
+      },
+      {
+         "name": "Gandhi Kusthniwaran Pratisthan",
+         "latitude": 25.041734,
+         "longitude": 83.61275
+      },
+      {
+         "name": "Om Hospital Khagaria",
+         "latitude": 25.50928,
+         "longitude": 86.475627
+      },
+      {
+         "name": "Shaheed Prabhu Narayan Multispeciality Hospital",
+         "latitude": 25.511152,
+         "longitude": 86.476908
+      },
+      {
+         "name": "Ab Nursing Home",
+         "latitude": 26.307792,
+         "longitude": 87.776333
+      },
+      {
+         "name": "Sai Seva Sadan",
+         "latitude": 25.171709,
+         "longitude": 86.103889
+      },
+      {
+         "name": "Cribs Hospital Madhubani",
+         "latitude": 26.326,
+         "longitude": 86.04592
+      },
+      {
+         "name": "Arpan Ortho Hospital",
+         "latitude": 25.37262,
+         "longitude": 86.490321
+      },
+      {
+         "name": "Jeevan-Jyoti Medical and Research Centre",
+         "latitude": 25.37262,
+         "longitude": 86.490321
+      },
+      {
+         "name": "Surims & Hopital",
+         "latitude": 25.37262,
+         "longitude": 86.490321
+      },
+      {
+         "name": "Aseem Health Care & Trama Centre",
+         "latitude": 26.120888,
+         "longitude": 85.36472
+      },
+      {
+         "name": "Care Nursing Home Muzaffarpur",
+         "latitude": 26.14478,
+         "longitude": 85.36142
+      },
+      {
+         "name": "Mishara Multispecialites Hospitla",
+         "latitude": 26.120888,
+         "longitude": 85.36472
+      },
+      {
+         "name": "Usha Hospital",
+         "latitude": 26.12941,
+         "longitude": 85.37668
+      },
+      {
+         "name": "Prashant Memorial Charitable Hospital",
+         "latitude": 26.1293,
+         "longitude": 85.37364
+      },
+      {
+         "name": "Jaiswal Eye Hospital",
+         "latitude": 26.12639,
+         "longitude": 85.37298
+      },
+      {
+         "name": "Ashoka Hospital",
+         "latitude": 26.12949,
+         "longitude": 85.37697
+      },
+      {
+         "name": "Prasad Hospital",
+         "latitude": 26.1345,
+         "longitude": 85.36516
+      },
+      {
+         "name": "ASG Hospital Pvt Ltd.- Muzaffarpur",
+         "latitude": 26.11687,
+         "longitude": 85.39719
+      },
+      {
+         "name": "New Lilawati Hospital",
+         "latitude": 26.14969,
+         "longitude": 85.37975
+      },
+      {
+         "name": "Apollo Surgical & Urology Centre",
+         "latitude": 25.203805,
+         "longitude": 85.509734
+      },
+      {
+         "name": "Jeevan Jyoti Super Speciality Hospital",
+         "latitude": 25.20076,
+         "longitude": 85.51472
+      },
+      {
+         "name": "CNS Hospital Pvt. Ltd.",
+         "latitude": 25.632231,
+         "longitude": 85.103748
+      },
+      {
+         "name": "Raj Retina and Eye Care Centre Pvt Ltd.",
+         "latitude": 25.61695,
+         "longitude": 85.10303
+      },
+      {
+         "name": "Netaji Subhas Medical College and Hospital",
+         "latitude": 25.54121,
+         "longitude": 84.8572
+      },
+      {
+         "name": "Chandigarh Eye Care",
+         "latitude": 25.59372,
+         "longitude": 85.17337
+      },
+      {
+         "name": "M.M Hospital and Research Center Pvt. Ltd.",
+         "latitude": 25.58918,
+         "longitude": 85.1682
+      },
+      {
+         "name": "Mediversal Multi Super Speciality Hospital",
+         "latitude": 25.59772,
+         "longitude": 85.15747
+      },
+      {
+         "name": "City Hospital Patna",
+         "latitude": 25.577716,
+         "longitude": 85.069901
+      },
+      {
+         "name": "Shri Sai Hospital Patna",
+         "latitude": 25.599193,
+         "longitude": 85.157222
+      },
+      {
+         "name": "Shri Sai Hospital (Heart Unit)",
+         "latitude": 25.59933,
+         "longitude": 85.15721
+      },
+      {
+         "name": "Chanakya Hospital",
+         "latitude": 25.600316,
+         "longitude": 85.156129
+      },
+      {
+         "name": "Saurav Nursing Home",
+         "latitude": 25.784145,
+         "longitude": 87.493163
+      },
+      {
+         "name": "Max Seven Hospital Pvt. Ltd.",
+         "latitude": 25.78833,
+         "longitude": 87.49248
+      },
+      {
+         "name": "Surya Hospital Saharsa",
+         "latitude": 25.879159,
+         "longitude": 86.590151
+      },
+      {
+         "name": "Jeevan Sahara Hospital Pvt. Ltd.",
+         "latitude": 25.85189,
+         "longitude": 85.65936
+      },
+      {
+         "name": "Meera Hospital Saran",
+         "latitude": 25.783548,
+         "longitude": 84.753143
+      },
+      {
+         "name": "Jagadamba Multispeciality Hospital Pvt. Ltd.",
+         "latitude": 12.30511,
+         "longitude": 76.69582
+      },
+      {
+         "name": "Nandipath Memorial Hospital",
+         "latitude": 26.59807,
+         "longitude": 85.495323
+      },
+      {
+         "name": "Sri Krishana Nursing Home & Research Centre",
+         "latitude": 26.58985,
+         "longitude": 85.49259
+      },
+      {
+         "name": "Navjivan Multispecility Hospital & Rescerch Centre",
+         "latitude": 26.58203,
+         "longitude": 85.50751
+      },
+      {
+         "name": "Neelam Health Research Sansthan",
+         "latitude": 26.108333,
+         "longitude": 86.601111
+      },
+      {
+         "name": "New B.K.Hospital",
+         "latitude": 25.69154,
+         "longitude": 85.20652
+      },
+      {
+         "name": "Naina Eye Care Centre",
+         "latitude": 25.69247,
+         "longitude": 85.20833
+      },
+      {
+         "name": "ASG Hospital Pvt. Ltd. - Hajipur",
+         "latitude": 25.70263,
+         "longitude": 85.20539
+      }
+   ]
+}

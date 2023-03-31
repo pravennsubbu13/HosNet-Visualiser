@@ -1,0 +1,584 @@
+{
+   "results": [
+      {
+         "name": "Amrutha Hospital Adilabad",
+         "latitude": 19.11653,
+         "longitude": 78.99766
+      },
+      {
+         "name": "Devender Reddy Super Speciality Hospital",
+         "latitude": 19.08574,
+         "longitude": 78.35161
+      },
+      {
+         "name": "Maatha Children's Hospital",
+         "latitude": 18.87687,
+         "longitude": 79.44428
+      },
+      {
+         "name": "Agastya Institute of Medical Sciences",
+         "latitude": 18.88163,
+         "longitude": 79.44375
+      },
+      {
+         "name": "Prashant's Gk Hospitals",
+         "latitude": 19.09718,
+         "longitude": 78.36327
+      },
+      {
+         "name": "Chrome Hospital",
+         "latitude": 19.67653,
+         "longitude": 78.53048
+      },
+      {
+         "name": "Sri Mahalaxmi Childrens Hospital",
+         "latitude": 18.88474,
+         "longitude": 79.44192
+      },
+      {
+         "name": "Medilife Multi Speciality Hospital (Sri Laxmi Dhanwantari Hospitals & Research P",
+         "latitude": 18.880962,
+         "longitude": 79.439714
+      },
+      {
+         "name": "Sri Mithra Multispeciality Hospital",
+         "latitude": 18.00662,
+         "longitude": 79.55877
+      },
+      {
+         "name": "Gleneagles Global Hospitals",
+         "latitude": 17.405336,
+         "longitude": 78.463148
+      },
+      {
+         "name": "Care Hospital - Nampally",
+         "latitude": 17.38577,
+         "longitude": 78.47411
+      },
+      {
+         "name": "Kamineni Hospitals King Koti",
+         "latitude": 17.39261,
+         "longitude": 78.47978
+      },
+      {
+         "name": "Sai Vani Super Speciality Hospital",
+         "latitude": 17.410977,
+         "longitude": 78.483487
+      },
+      {
+         "name": "Pulse Heart Center",
+         "latitude": 17.49092,
+         "longitude": 78.39694
+      },
+      {
+         "name": "Matrika Hospital",
+         "latitude": 17.427468,
+         "longitude": 78.460686
+      },
+      {
+         "name": "Heritage Hospital",
+         "latitude": 17.425288,
+         "longitude": 78.457285
+      },
+      {
+         "name": "Kamineni Hospitals L.B. Nagar",
+         "latitude": 17.35166,
+         "longitude": 78.55593
+      },
+      {
+         "name": "Sathya Kidney Centre & Super Speciality Hospitals",
+         "latitude": 17.407486,
+         "longitude": 78.481865
+      },
+      {
+         "name": "Archana Hospital Pvt Ltd.",
+         "latitude": 17.490585,
+         "longitude": 78.342529
+      },
+      {
+         "name": "Usha Mullapudi Cardiac Centre",
+         "latitude": 17.520922,
+         "longitude": 78.429372
+      },
+      {
+         "name": "Sumana Hospital",
+         "latitude": 17.499027,
+         "longitude": 78.399467
+      },
+      {
+         "name": "Remedy Hospitals Kukatpally",
+         "latitude": 17.494647,
+         "longitude": 78.398511
+      },
+      {
+         "name": "Konark Hospitals",
+         "latitude": 17.512205,
+         "longitude": 78.475404
+      },
+      {
+         "name": "Rohan Hospital",
+         "latitude": 18.45029,
+         "longitude": 79.13337
+      },
+      {
+         "name": "Akshaya Multispeciality Hospital",
+         "latitude": 17.41743,
+         "longitude": 78.511829
+      },
+      {
+         "name": "Shiva Sai Hospital",
+         "latitude": 18.82554,
+         "longitude": 78.717221
+      },
+      {
+         "name": "Keshava Neuro and Critical Care Centre",
+         "latitude": 18.44088,
+         "longitude": 79.13129
+      },
+      {
+         "name": "Sri Sai Life Line Hospital",
+         "latitude": 18.44606,
+         "longitude": 79.12435
+      },
+      {
+         "name": "Latha Maternity Nursing Home",
+         "latitude": 18.44115,
+         "longitude": 79.12958
+      },
+      {
+         "name": "Amrutha Nursing Home",
+         "latitude": 18.43878,
+         "longitude": 79.131707
+      },
+      {
+         "name": "Surya Nursing Home",
+         "latitude": 18.441454,
+         "longitude": 79.126831
+      },
+      {
+         "name": "Fortune Medcare Hospital",
+         "latitude": 18.438555,
+         "longitude": 79.128841
+      },
+      {
+         "name": "Arogya Hospital.",
+         "latitude": 17.24885,
+         "longitude": 80.14596
+      },
+      {
+         "name": "Vasan Eye Care Hospital Khammam",
+         "latitude": 17.24767,
+         "longitude": 80.15008
+      },
+      {
+         "name": "Ankura Hospital For Women & Children",
+         "latitude": 17.251484,
+         "longitude": 80.146194
+      },
+      {
+         "name": "Belief Hospitals",
+         "latitude": 17.24797,
+         "longitude": 80.14773
+      },
+      {
+         "name": "Syamala Hospitals",
+         "latitude": 17.24789,
+         "longitude": 80.15143
+      },
+      {
+         "name": "Sri Bhavani Hospital OrthoandAccidental Care",
+         "latitude": 17.24932,
+         "longitude": 80.14623
+      },
+      {
+         "name": "Khammam Institute of Medical Sciences Hospitals",
+         "latitude": 17.24988,
+         "longitude": 80.14415
+      },
+      {
+         "name": "Zoya Nursing Home",
+         "latitude": 17.25212,
+         "longitude": 80.14571
+      },
+      {
+         "name": "Akshara Cardiac Hospital",
+         "latitude": 17.24662,
+         "longitude": 80.15122
+      },
+      {
+         "name": "Sree Havisha Hospital",
+         "latitude": 17.25009,
+         "longitude": 80.14432
+      },
+      {
+         "name": "Akhila Eye Hospital",
+         "latitude": 17.24838,
+         "longitude": 80.14863
+      },
+      {
+         "name": "Ushodaya Hospitals",
+         "latitude": 17.24815,
+         "longitude": 80.14718
+      },
+      {
+         "name": "Jabilli Mother and Child Hospital",
+         "latitude": 17.24969,
+         "longitude": 80.1453
+      },
+      {
+         "name": "New Life Emergency and Multispeciality Hospital",
+         "latitude": 17.24868,
+         "longitude": 80.14592
+      },
+      {
+         "name": "Susrutha People's Hospital",
+         "latitude": 16.74918,
+         "longitude": 78.00085
+      },
+      {
+         "name": "Sri Harsha Neuro Psychiatry and Multispecialty Hospital - Hyderabad",
+         "latitude": 16.78395,
+         "longitude": 78.01509
+      },
+      {
+         "name": "Chandra Hospital",
+         "latitude": 18.43824,
+         "longitude": 79.13151
+      },
+      {
+         "name": "Panchavati Hospital",
+         "latitude": 16.70218,
+         "longitude": 78.0468
+      },
+      {
+         "name": "Palamuru Eye Hospital",
+         "latitude": 16.75186,
+         "longitude": 78.00928
+      },
+      {
+         "name": "Nephroplus Kidney Care Hospital Mahbubnagar",
+         "latitude": 16.75741,
+         "longitude": 78.04297
+      },
+      {
+         "name": "Sri Navodaya Institute of Medical Sciences Mahbub Nagar",
+         "latitude": 16.74977,
+         "longitude": 77.99299
+      },
+      {
+         "name": "Shree Balaji Medicover Hospitals",
+         "latitude": 17.58689,
+         "longitude": 78.09354
+      },
+      {
+         "name": "Max Care Hospitals",
+         "latitude": 17.53123,
+         "longitude": 78.26126
+      },
+      {
+         "name": "Samraksha Hospital- Siddipet",
+         "latitude": 18.102,
+         "longitude": 78.84879
+      },
+      {
+         "name": "Manasa Maternity and Nursing Home",
+         "latitude": 18.10183,
+         "longitude": 78.84936
+      },
+      {
+         "name": "Ashwath Childrens Hospital",
+         "latitude": 18.09683,
+         "longitude": 78.85087
+      },
+      {
+         "name": "Sathya Nursing Home",
+         "latitude": 18.10244,
+         "longitude": 78.85223
+      },
+      {
+         "name": "GS Aarogya Hospital",
+         "latitude": 18.10118,
+         "longitude": 78.84509
+      },
+      {
+         "name": "Shishu Raksha Hospital",
+         "latitude": 18.10558,
+         "longitude": 78.8487
+      },
+      {
+         "name": "Jayalaxmi Orthopedic Hospital",
+         "latitude": 18.04697,
+         "longitude": 78.26659
+      },
+      {
+         "name": "Lohith Sai Hospital",
+         "latitude": 18.10196,
+         "longitude": 78.84766
+      },
+      {
+         "name": "Sree Suraksha Critical Care Hospital",
+         "latitude": 18.097191,
+         "longitude": 78.851272
+      },
+      {
+         "name": "Aashirwad Hospital",
+         "latitude": 18.67387,
+         "longitude": 78.10583
+      },
+      {
+         "name": "Vijaya Laxmi Hospital",
+         "latitude": 18.67317,
+         "longitude": 78.1037
+      },
+      {
+         "name": "Sri Mahalaxmi Childrens Hospital",
+         "latitude": 18.67303,
+         "longitude": 78.10264
+      },
+      {
+         "name": "Sri Vishnu Super Speciality Hospital",
+         "latitude": 18.67436,
+         "longitude": 78.10378
+      },
+      {
+         "name": "S.S. Balaji Hospital",
+         "latitude": 18.6709,
+         "longitude": 78.10521
+      },
+      {
+         "name": "Pratibha Super Speciality Hospital",
+         "latitude": 18.66848,
+         "longitude": 78.10444
+      },
+      {
+         "name": "Ankam Hospital",
+         "latitude": 18.67449,
+         "longitude": 78.10155
+      },
+      {
+         "name": "Shiva Sai Emergency & Multi Speciality Hospital",
+         "latitude": 18.67286,
+         "longitude": 78.10332
+      },
+      {
+         "name": "Taksh Multi Speciality Hospital",
+         "latitude": 18.67051,
+         "longitude": 78.10199
+      },
+      {
+         "name": "Medicover Hospitals - Nizamabad",
+         "latitude": 18.67452,
+         "longitude": 78.10926
+      },
+      {
+         "name": "Dreamland Hope Hospital Pvt. Ltd.",
+         "latitude": 18.67236,
+         "longitude": 78.1029
+      },
+      {
+         "name": "Novalife Hospitals Ltd.",
+         "latitude": 18.67352,
+         "longitude": 78.10642
+      },
+      {
+         "name": "Maa Arogya Hospital",
+         "latitude": 18.67385,
+         "longitude": 78.10222
+      },
+      {
+         "name": "Varsha Hospital Nizamabad",
+         "latitude": 18.32626,
+         "longitude": 78.33938
+      },
+      {
+         "name": "Ritvik Hospital",
+         "latitude": 18.67484,
+         "longitude": 78.10186
+      },
+      {
+         "name": "Refracto Eye Hospitals",
+         "latitude": 18.66414,
+         "longitude": 78.10904
+      },
+      {
+         "name": "Sri Guru Raghavendra Sunrise Super Speciality Hospital",
+         "latitude": 18.67503,
+         "longitude": 78.10242
+      },
+      {
+         "name": "Srinivas Gastro and Liver Care Hospital",
+         "latitude": 14.67479,
+         "longitude": 77.60133
+      },
+      {
+         "name": "Ankura Hospital For Women and Children Secunderabad",
+         "latitude": 17.47285,
+         "longitude": 78.387144
+      },
+      {
+         "name": "May Flower Hospital For Women and Children",
+         "latitude": 17.482523,
+         "longitude": 78.552781
+      },
+      {
+         "name": "Vasan Eye Care Hospital Secunderabad",
+         "latitude": 17.44058,
+         "longitude": 78.49766
+      },
+      {
+         "name": "Prasad Hospital",
+         "latitude": 17.438427,
+         "longitude": 78.555228
+      },
+      {
+         "name": "Navjeevan Hospital",
+         "latitude": 17.460556,
+         "longitude": 78.495084
+      },
+      {
+         "name": "Sri Santosh Hospital",
+         "latitude": 17.479473,
+         "longitude": 78.553351
+      },
+      {
+         "name": "Sri Navodaya Institute of Medical Sciences",
+         "latitude": 17.441781,
+         "longitude": 78.486809
+      },
+      {
+         "name": "Abhaya Bbc New Born and Children's Hospital",
+         "latitude": 17.401773,
+         "longitude": 78.509449
+      },
+      {
+         "name": "Bristlecone Hospitals",
+         "latitude": 17.392,
+         "longitude": 78.49615
+      },
+      {
+         "name": "Unity Centre For Orthopaedics and Trauma",
+         "latitude": 17.396424,
+         "longitude": 78.488082
+      },
+      {
+         "name": "Tanvi Eye Center",
+         "latitude": 17.450079,
+         "longitude": 78.511571
+      },
+      {
+         "name": "Prashamsa Hospital",
+         "latitude": 17.50329,
+         "longitude": 78.50952
+      },
+      {
+         "name": "Sudha Hospital",
+         "latitude": 17.3769,
+         "longitude": 78.55638
+      },
+      {
+         "name": "Amar Maternity Nursing Home",
+         "latitude": 17.39876,
+         "longitude": 78.50698
+      },
+      {
+         "name": "Shenoy Hospitals",
+         "latitude": 17.44782,
+         "longitude": 78.50895
+      },
+      {
+         "name": "Sundari Maternity and General Hospital",
+         "latitude": 17.50284,
+         "longitude": 78.51323
+      },
+      {
+         "name": "Eye Cure Hospital Hyderabad",
+         "latitude": 17.47286,
+         "longitude": 78.51023
+      },
+      {
+         "name": "Soorya Hospitals",
+         "latitude": 17.47429,
+         "longitude": 78.56941
+      },
+      {
+         "name": "Harsha Hospitals",
+         "latitude": 17.52112,
+         "longitude": 78.48458
+      },
+      {
+         "name": "Srikara Hospitals",
+         "latitude": 17.44359,
+         "longitude": 78.507533
+      },
+      {
+         "name": "Poulomi Hospital Pvt. Ltd.",
+         "latitude": 17.482982,
+         "longitude": 78.552933
+      },
+      {
+         "name": "Gurunanak Care Hospital",
+         "latitude": 17.415663,
+         "longitude": 78.499345
+      },
+      {
+         "name": "Tulasi Hospitals",
+         "latitude": 17.47897,
+         "longitude": 78.570178
+      },
+      {
+         "name": "Nephroplus Kidney Care Hospital Secunderabad",
+         "latitude": 17.45014,
+         "longitude": 78.50945
+      },
+      {
+         "name": "Omega Bannu Hospitals",
+         "latitude": 18.00118,
+         "longitude": 79.85239
+      },
+      {
+         "name": "Aravinda Super Speciality Hospital",
+         "latitude": 17.99988,
+         "longitude": 79.56258
+      },
+      {
+         "name": "Jaya Hospital",
+         "latitude": 18.005208,
+         "longitude": 79.569795
+      },
+      {
+         "name": "Vishwas Superspeciality Hospital & Dialysis Centre",
+         "latitude": 18.005623,
+         "longitude": 79.557246
+      },
+      {
+         "name": "Ajara Hospitals",
+         "latitude": 18.00439,
+         "longitude": 79.58358
+      },
+      {
+         "name": "Relief Hospitals",
+         "latitude": 18.03155,
+         "longitude": 79.60742
+      },
+      {
+         "name": "Laxmi Narasimha Hospital",
+         "latitude": 18.01382,
+         "longitude": 79.5562
+      },
+      {
+         "name": "Sri Sharanya Nursing Home and Critical Care Centre",
+         "latitude": 10.01784,
+         "longitude": 79.55267
+      },
+      {
+         "name": "Kids Care Hospital",
+         "latitude": 17.99894,
+         "longitude": 79.55467
+      },
+      {
+         "name": "V.B. Hospital",
+         "latitude": 17.97082,
+         "longitude": 79.59854
+      }
+   ]
+}

@@ -1,0 +1,34 @@
+{
+   "results": [
+      {
+         "name": "Jeewan Hospital & Nursing Home Pvt. Ltd. (Gate No. 1)",
+         "latitude": 28.572773,
+         "longitude": 77.257274
+      },
+      {
+         "name": "Parnami Orthopaedic Hospital & Joint Replacement Centre",
+         "latitude": 28.70314,
+         "longitude": 77.177225
+      },
+      {
+         "name": "Metro Hospitals and Heart Institute Lajpat Nagar",
+         "latitude": 28.56474,
+         "longitude": 77.24378
+      },
+      {
+         "name": "Delhi Heart and Lung Institute",
+         "latitude": 28.64167,
+         "longitude": 77.20534
+      },
+      {
+         "name": "Indian Institute of Ophthalmology",
+         "latitude": 28.538605,
+         "longitude": 77.23836
+      },
+      {
+         "name": "Sukhda Hospital",
+         "latitude": 28.547028,
+         "longitude": 77.244451
+      }
+   ]
+}
